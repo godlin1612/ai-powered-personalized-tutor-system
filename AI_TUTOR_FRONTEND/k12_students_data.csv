@@ -1,0 +1,1001 @@
+Name,Age,Gender,Country,State,City,Parent Occupation,Earning Class,Level of Student,Level of Course,Course Name,Material Name,Material Level,Time per Day (min),Assessment Score,IQ of Student,Promoted
+Mallory,13,Male,India,Maharashtra,Pune,Teacher,Low,Advanced,Advanced,English,Video,Medium,52,72.71,127,Yes
+Teresa,15,Male,India,Karnataka,Bangalore,Business,High,Advanced,Intermediate,English,PDF,Hard,114,60.14,91,Yes
+Joseph,12,Male,UK,England,Manchester,Doctor,Low,Beginner,Beginner,Science,PDF,Basic,11,86.05,111,Yes
+James,8,Male,India,Maharashtra,Mumbai,Clerk,Low,Intermediate,Intermediate,Math,Quiz,Medium,101,75.09,81,Yes
+Daniel,5,Female,UK,Scotland,Glasgow,Teacher,Middle,Advanced,Beginner,English,Video,Basic,28,76.04,124,Yes
+Adam,13,Male,USA,Texas,Dallas,Doctor,High,Beginner,Advanced,Science,PDF,Medium,109,72.95,88,Yes
+Shannon,7,Female,USA,Texas,Dallas,Teacher,High,Beginner,Intermediate,English,Video,Medium,30,54.89,114,No
+Denise,11,Male,UK,Scotland,Edinburgh,Doctor,Low,Advanced,Advanced,English,Video,Medium,62,62.61,83,Yes
+Sabrina,6,Male,UK,Scotland,Glasgow,Clerk,Low,Beginner,Beginner,Math,Video,Hard,41,89.73,121,Yes
+Taylor,9,Male,India,Karnataka,Bangalore,Teacher,High,Beginner,Advanced,English,Video,Basic,79,73.86,140,Yes
+Tamara,14,Male,USA,Texas,Austin,Farmer,Middle,Advanced,Beginner,Math,Quiz,Medium,62,100.0,102,Yes
+Kimberly,12,Male,UK,England,London,Clerk,Low,Advanced,Intermediate,Science,Quiz,Hard,51,69.76,109,Yes
+Katherine,6,Female,UK,Scotland,Edinburgh,Teacher,High,Beginner,Beginner,Math,PDF,Basic,89,100.0,101,Yes
+Michelle,5,Female,USA,Texas,Austin,Clerk,High,Intermediate,Intermediate,English,Quiz,Basic,30,68.93,122,Yes
+Sheila,14,Female,UK,England,London,Doctor,High,Beginner,Beginner,Math,PDF,Hard,94,85.47,122,Yes
+Parker,12,Female,USA,California,San Diego,Doctor,High,Beginner,Advanced,Math,PDF,Medium,81,85.21,140,Yes
+Peter,5,Female,USA,California,San Diego,Engineer,Low,Intermediate,Beginner,Math,PDF,Medium,65,86.45,98,Yes
+John,17,Female,UK,England,London,Doctor,High,Beginner,Beginner,Math,PDF,Basic,114,56.92,129,No
+Steven,15,Female,India,Karnataka,Mysore,Farmer,Low,Intermediate,Advanced,Science,Quiz,Hard,40,84.66,84,Yes
+Caleb,6,Female,India,Maharashtra,Pune,Engineer,Middle,Beginner,Intermediate,Math,Video,Basic,89,81.87,86,Yes
+William,12,Male,UK,England,London,Engineer,High,Beginner,Intermediate,English,Video,Basic,91,51.97,136,No
+Sara,7,Female,India,Maharashtra,Pune,Doctor,Middle,Beginner,Beginner,English,Video,Basic,112,67.26,92,Yes
+Beth,7,Female,USA,California,San Diego,Farmer,Low,Intermediate,Intermediate,Math,PDF,Hard,117,64.08,102,Yes
+Stephen,6,Male,UK,Scotland,Glasgow,Doctor,Middle,Intermediate,Intermediate,English,Quiz,Medium,99,51.59,97,No
+Kelsey,16,Male,India,Karnataka,Mysore,Teacher,High,Beginner,Advanced,Math,PDF,Hard,50,80.15,135,Yes
+Crystal,13,Female,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Intermediate,Science,Video,Hard,75,92.17,122,Yes
+Jack,17,Female,UK,Scotland,Edinburgh,Teacher,High,Beginner,Advanced,Math,Quiz,Basic,20,56.92,83,No
+Tabitha,7,Female,UK,England,London,Clerk,High,Advanced,Intermediate,Science,Video,Hard,28,84.5,99,Yes
+Wendy,7,Male,USA,California,Los Angeles,Farmer,High,Intermediate,Beginner,English,Quiz,Hard,13,52.8,92,No
+Edward,18,Female,India,Maharashtra,Pune,Clerk,Low,Intermediate,Beginner,Math,Video,Hard,105,86.75,112,Yes
+Henry,14,Male,India,Karnataka,Bangalore,Engineer,Middle,Intermediate,Intermediate,English,Video,Medium,85,69.67,114,Yes
+Laura,7,Female,India,Maharashtra,Pune,Farmer,Middle,Intermediate,Advanced,Math,Quiz,Basic,12,100.0,128,Yes
+Amanda,9,Male,USA,California,Los Angeles,Doctor,Low,Intermediate,Intermediate,Science,Quiz,Medium,35,89.93,81,Yes
+Marcus,7,Female,India,Maharashtra,Pune,Doctor,Low,Advanced,Beginner,Math,Quiz,Hard,92,64.47,136,Yes
+Melinda,15,Male,UK,England,London,Clerk,Low,Advanced,Advanced,Science,Quiz,Hard,89,79.47,107,Yes
+Shane,15,Male,UK,Scotland,Glasgow,Clerk,Middle,Beginner,Beginner,Science,Video,Hard,104,63.98,113,Yes
+Rebecca,11,Male,UK,England,London,Farmer,Middle,Beginner,Beginner,Math,Quiz,Basic,71,100.0,100,Yes
+Linda,5,Male,USA,Texas,Dallas,Clerk,Low,Beginner,Advanced,Science,PDF,Basic,82,67.55,123,Yes
+Steven,18,Male,India,Maharashtra,Mumbai,Clerk,Middle,Advanced,Advanced,Math,Video,Basic,56,77.68,112,Yes
+Kimberly,12,Male,USA,California,San Diego,Farmer,High,Beginner,Intermediate,Science,Video,Hard,94,54.48,81,No
+Dylan,18,Male,India,Maharashtra,Pune,Engineer,Low,Intermediate,Intermediate,English,PDF,Medium,70,78.94,106,Yes
+Vanessa,17,Female,India,Maharashtra,Mumbai,Doctor,High,Beginner,Advanced,English,Video,Hard,32,80.47,101,Yes
+Courtney,18,Male,UK,England,London,Business,Low,Advanced,Beginner,Science,PDF,Basic,96,58.16,137,No
+Steven,9,Female,UK,England,London,Clerk,Low,Intermediate,Intermediate,Science,PDF,Medium,52,69.57,113,Yes
+Erin,7,Female,India,Karnataka,Mysore,Engineer,Middle,Beginner,Intermediate,Science,Video,Medium,27,74.17,91,Yes
+Adam,16,Female,India,Karnataka,Bangalore,Teacher,Middle,Intermediate,Beginner,Math,PDF,Basic,47,72.14,90,Yes
+Katherine,14,Female,India,Karnataka,Bangalore,Engineer,Low,Intermediate,Advanced,English,Video,Hard,70,62.1,115,Yes
+David,9,Female,UK,England,Manchester,Doctor,Middle,Advanced,Advanced,Math,PDF,Medium,62,76.43,123,Yes
+Adrian,9,Male,USA,Texas,Austin,Business,Low,Intermediate,Beginner,English,PDF,Medium,40,41.15,113,No
+Victor,18,Male,India,Maharashtra,Pune,Farmer,Low,Intermediate,Beginner,Math,PDF,Hard,42,68.82,127,Yes
+Zachary,9,Male,UK,England,Manchester,Clerk,Middle,Advanced,Beginner,English,Video,Basic,70,44.61,138,No
+Keith,14,Female,UK,England,London,Clerk,High,Intermediate,Intermediate,Science,PDF,Basic,17,46.89,87,No
+Michael,11,Male,USA,Texas,Dallas,Doctor,High,Beginner,Intermediate,Science,PDF,Basic,78,81.8,134,Yes
+Bryan,18,Male,USA,Texas,Dallas,Clerk,High,Beginner,Advanced,Science,PDF,Medium,56,66.33,90,Yes
+Kristen,12,Female,India,Maharashtra,Pune,Teacher,Middle,Intermediate,Beginner,English,PDF,Medium,73,55.88,104,No
+Rebecca,13,Male,USA,Texas,Austin,Business,Middle,Intermediate,Advanced,Math,Video,Hard,31,68.83,100,Yes
+James,12,Male,UK,England,Manchester,Doctor,Middle,Beginner,Intermediate,Science,PDF,Medium,92,87.08,110,Yes
+Gina,9,Female,USA,Texas,Austin,Engineer,High,Beginner,Intermediate,English,Quiz,Basic,73,94.08,137,Yes
+Leah,5,Female,UK,England,London,Business,High,Advanced,Intermediate,Science,Quiz,Hard,46,68.52,107,Yes
+Stephanie,13,Male,USA,Texas,Austin,Teacher,Middle,Beginner,Advanced,English,Quiz,Hard,85,67.73,124,Yes
+Kevin,11,Female,USA,Texas,Dallas,Teacher,Middle,Beginner,Advanced,English,Quiz,Hard,67,85.37,82,Yes
+Rhonda,16,Female,UK,England,London,Business,Middle,Beginner,Advanced,English,PDF,Hard,31,79.97,136,Yes
+Nathaniel,17,Female,USA,California,San Diego,Teacher,High,Advanced,Beginner,English,Video,Medium,28,77.81,140,Yes
+Kimberly,9,Female,UK,Scotland,Glasgow,Business,Middle,Beginner,Advanced,Math,PDF,Basic,89,81.43,131,Yes
+Dan,6,Female,USA,Texas,Austin,Business,Low,Intermediate,Intermediate,English,PDF,Medium,11,76.48,109,Yes
+Seth,12,Female,USA,Texas,Dallas,Clerk,Middle,Intermediate,Intermediate,English,Video,Medium,12,53.69,94,No
+Richard,6,Male,UK,England,London,Clerk,High,Beginner,Beginner,English,Video,Medium,22,48.08,95,No
+Kristie,14,Female,USA,California,Los Angeles,Farmer,Low,Intermediate,Beginner,Science,Quiz,Basic,81,73.82,121,Yes
+Kathleen,9,Male,UK,England,Manchester,Clerk,Low,Beginner,Advanced,Science,Quiz,Basic,98,82.16,94,Yes
+Teresa,13,Male,UK,Scotland,Glasgow,Doctor,Low,Beginner,Beginner,Science,Video,Basic,117,66.96,133,Yes
+Robert,5,Male,USA,Texas,Austin,Business,Low,Beginner,Beginner,English,Video,Basic,11,89.44,129,Yes
+Andrew,9,Female,USA,California,San Diego,Farmer,Low,Intermediate,Beginner,Math,PDF,Medium,62,52.66,108,No
+Daniel,8,Female,USA,California,San Diego,Business,High,Advanced,Beginner,Math,Video,Medium,41,65.49,90,Yes
+Jennifer,18,Male,UK,England,Manchester,Business,Middle,Beginner,Advanced,English,PDF,Hard,92,69.86,109,Yes
+Sarah,16,Female,UK,England,London,Engineer,High,Beginner,Beginner,Math,PDF,Basic,53,62.29,85,Yes
+Rebecca,13,Male,USA,Texas,Austin,Farmer,Middle,Advanced,Advanced,Math,PDF,Basic,110,80.32,96,Yes
+David,12,Female,UK,Scotland,Edinburgh,Clerk,High,Intermediate,Beginner,Science,Video,Medium,87,47.79,102,No
+Rachel,5,Male,India,Karnataka,Bangalore,Clerk,High,Intermediate,Intermediate,Math,PDF,Basic,84,73.05,124,Yes
+Donald,9,Male,USA,Texas,Dallas,Farmer,High,Advanced,Intermediate,Science,Quiz,Medium,37,59.81,113,No
+Marcia,5,Female,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Beginner,English,Quiz,Hard,118,54.13,103,No
+Meghan,8,Male,India,Karnataka,Bangalore,Business,Low,Intermediate,Advanced,Science,PDF,Medium,33,61.69,96,Yes
+Keith,12,Male,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Beginner,English,Quiz,Hard,93,69.77,114,Yes
+Michael,15,Female,India,Karnataka,Bangalore,Engineer,High,Intermediate,Intermediate,Math,Quiz,Basic,42,84.72,100,Yes
+Raven,15,Female,USA,California,Los Angeles,Engineer,Low,Intermediate,Advanced,Science,Video,Hard,61,76.07,138,Yes
+Emily,5,Male,UK,England,Manchester,Clerk,Low,Beginner,Beginner,Science,Quiz,Medium,33,44.12,85,No
+Heather,7,Female,India,Karnataka,Bangalore,Farmer,Low,Intermediate,Advanced,English,PDF,Medium,117,86.27,105,Yes
+Jeffery,7,Male,UK,Scotland,Edinburgh,Teacher,Middle,Advanced,Advanced,English,PDF,Hard,108,68.94,106,Yes
+Melanie,7,Female,India,Maharashtra,Pune,Engineer,Middle,Intermediate,Advanced,English,Video,Hard,89,70.99,103,Yes
+Joseph,18,Male,USA,Texas,Dallas,Clerk,High,Advanced,Advanced,Science,Video,Hard,59,71.26,128,Yes
+Tracy,7,Male,India,Karnataka,Mysore,Farmer,High,Advanced,Beginner,Math,Video,Hard,16,39.07,118,No
+Jennifer,14,Male,UK,Scotland,Edinburgh,Engineer,High,Beginner,Advanced,Math,PDF,Basic,102,99.06,99,Yes
+Amber,12,Female,India,Maharashtra,Mumbai,Engineer,Low,Advanced,Intermediate,English,PDF,Basic,59,66.34,100,Yes
+John,6,Female,UK,Scotland,Edinburgh,Clerk,Middle,Advanced,Beginner,English,PDF,Medium,96,67.12,83,Yes
+Sherry,15,Male,India,Maharashtra,Pune,Engineer,Low,Advanced,Beginner,English,Video,Medium,42,48.57,119,No
+Vanessa,17,Male,India,Karnataka,Bangalore,Teacher,Middle,Intermediate,Intermediate,English,Quiz,Hard,98,74.66,115,Yes
+Charles,9,Male,India,Maharashtra,Mumbai,Farmer,Middle,Advanced,Beginner,English,Video,Hard,80,53.3,85,No
+Joshua,9,Male,UK,England,Manchester,Teacher,Middle,Advanced,Intermediate,Science,PDF,Basic,86,60.46,125,Yes
+Christian,8,Female,India,Karnataka,Bangalore,Engineer,High,Advanced,Advanced,English,Video,Basic,38,50.86,136,No
+Brett,5,Male,USA,California,Los Angeles,Doctor,High,Beginner,Advanced,English,Quiz,Medium,56,66.11,125,Yes
+Megan,11,Female,USA,Texas,Dallas,Farmer,Middle,Advanced,Advanced,Math,Quiz,Basic,83,63.47,123,Yes
+Mark,11,Female,India,Maharashtra,Mumbai,Farmer,Low,Intermediate,Advanced,Math,Quiz,Hard,115,72.89,129,Yes
+Jenna,16,Female,UK,Scotland,Glasgow,Clerk,High,Beginner,Intermediate,Math,PDF,Basic,95,80.39,123,Yes
+Jennifer,16,Male,USA,California,Los Angeles,Engineer,High,Intermediate,Intermediate,Math,Video,Basic,116,86.32,134,Yes
+Jason,14,Female,USA,California,San Diego,Engineer,Middle,Intermediate,Beginner,English,Video,Basic,77,51.34,133,No
+Jordan,7,Female,UK,England,Manchester,Clerk,High,Advanced,Intermediate,English,PDF,Hard,109,92.42,109,Yes
+Tammy,15,Male,India,Karnataka,Mysore,Clerk,High,Advanced,Intermediate,Math,Video,Hard,100,84.41,107,Yes
+Jennifer,11,Female,India,Maharashtra,Pune,Business,Middle,Beginner,Beginner,Math,Video,Medium,116,83.89,83,Yes
+Mary,5,Male,UK,England,Manchester,Business,High,Advanced,Beginner,Math,Video,Medium,36,98.91,90,Yes
+Suzanne,5,Male,UK,England,London,Doctor,High,Intermediate,Intermediate,Science,Quiz,Hard,60,76.14,89,Yes
+Ashley,11,Female,UK,Scotland,Edinburgh,Clerk,Low,Intermediate,Advanced,English,PDF,Hard,64,63.07,132,Yes
+Andrew,15,Male,India,Maharashtra,Mumbai,Business,Middle,Beginner,Advanced,Science,Video,Medium,35,77.38,139,Yes
+Lauren,12,Female,UK,England,London,Clerk,High,Intermediate,Beginner,English,PDF,Hard,75,65.89,136,Yes
+Laurie,17,Female,USA,California,San Diego,Engineer,Middle,Intermediate,Advanced,Science,Quiz,Hard,40,72.11,119,Yes
+Cynthia,13,Male,UK,Scotland,Glasgow,Doctor,Low,Advanced,Beginner,Math,Video,Hard,18,55.1,123,No
+Denise,11,Female,India,Karnataka,Bangalore,Teacher,Low,Intermediate,Advanced,Math,Video,Hard,103,69.46,138,Yes
+Eric,7,Male,India,Karnataka,Bangalore,Business,High,Intermediate,Intermediate,Math,Video,Medium,80,78.06,95,Yes
+Christopher,18,Female,UK,England,London,Engineer,Middle,Intermediate,Beginner,Science,PDF,Hard,39,59.27,104,No
+Lee,7,Male,USA,California,San Diego,Doctor,Low,Beginner,Beginner,English,PDF,Basic,14,73.17,116,Yes
+Adrian,7,Female,UK,England,Manchester,Clerk,Middle,Intermediate,Advanced,English,Video,Hard,80,54.38,100,No
+Donald,6,Male,UK,England,London,Doctor,Low,Advanced,Advanced,Math,Quiz,Medium,89,52.92,105,No
+Luis,11,Female,India,Maharashtra,Pune,Farmer,Low,Beginner,Advanced,Science,Video,Hard,24,80.57,93,Yes
+Anthony,8,Female,India,Maharashtra,Pune,Teacher,Low,Advanced,Beginner,Math,Video,Hard,77,89.07,128,Yes
+Michael,6,Male,India,Karnataka,Mysore,Doctor,High,Advanced,Beginner,Math,PDF,Hard,45,64.82,87,Yes
+Angela,14,Female,USA,Texas,Dallas,Clerk,High,Advanced,Advanced,English,Quiz,Basic,61,51.25,130,No
+Ricardo,15,Male,India,Maharashtra,Pune,Business,Middle,Advanced,Advanced,Science,Quiz,Basic,118,88.93,84,Yes
+Lisa,11,Male,USA,Texas,Austin,Teacher,High,Beginner,Beginner,English,Video,Medium,97,58.38,115,No
+Vickie,16,Male,USA,Texas,Dallas,Engineer,Low,Advanced,Intermediate,Math,PDF,Medium,106,49.6,128,No
+Craig,6,Female,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Intermediate,Math,Video,Basic,82,64.71,81,Yes
+Misty,10,Male,India,Maharashtra,Mumbai,Doctor,Middle,Intermediate,Intermediate,Science,Video,Medium,21,90.92,98,Yes
+Breanna,5,Female,India,Maharashtra,Mumbai,Business,High,Intermediate,Beginner,English,Video,Hard,72,65.24,138,Yes
+Kevin,7,Male,USA,Texas,Dallas,Teacher,High,Advanced,Advanced,English,Video,Medium,88,66.47,123,Yes
+Jill,6,Male,USA,California,Los Angeles,Clerk,High,Advanced,Beginner,Science,Video,Hard,30,54.57,128,No
+Mathew,7,Female,USA,Texas,Dallas,Clerk,Middle,Intermediate,Intermediate,Science,PDF,Hard,62,65.4,111,Yes
+Evelyn,11,Male,India,Maharashtra,Mumbai,Teacher,High,Beginner,Advanced,English,Quiz,Hard,101,100.0,99,Yes
+Frank,9,Male,USA,Texas,Dallas,Business,Low,Advanced,Intermediate,Science,PDF,Hard,70,66.67,139,Yes
+Kevin,16,Female,UK,Scotland,Edinburgh,Clerk,High,Intermediate,Advanced,English,Quiz,Medium,98,76.25,113,Yes
+Jack,5,Female,India,Karnataka,Bangalore,Doctor,High,Advanced,Advanced,Science,PDF,Medium,72,63.2,114,Yes
+Richard,14,Male,USA,California,Los Angeles,Clerk,Low,Intermediate,Beginner,Math,Quiz,Hard,104,75.6,106,Yes
+Susan,16,Male,India,Maharashtra,Pune,Business,High,Advanced,Beginner,Math,PDF,Hard,40,83.31,126,Yes
+Lindsey,7,Male,USA,California,Los Angeles,Teacher,Middle,Advanced,Intermediate,English,PDF,Basic,37,84.53,91,Yes
+Erica,11,Male,India,Maharashtra,Pune,Teacher,Middle,Intermediate,Intermediate,English,Video,Basic,74,68.87,126,Yes
+Zachary,18,Female,India,Karnataka,Bangalore,Farmer,High,Intermediate,Intermediate,Science,PDF,Medium,43,73.07,140,Yes
+Jenna,11,Male,India,Maharashtra,Mumbai,Engineer,Middle,Beginner,Beginner,English,PDF,Hard,78,84.38,91,Yes
+Sarah,14,Male,USA,California,Los Angeles,Engineer,High,Advanced,Advanced,Math,Quiz,Medium,29,66.34,126,Yes
+Daniel,18,Female,USA,Texas,Austin,Teacher,High,Intermediate,Intermediate,Science,Quiz,Medium,26,85.4,133,Yes
+Gregory,6,Female,USA,Texas,Austin,Business,High,Intermediate,Intermediate,Math,Quiz,Medium,13,65.62,95,Yes
+Andrew,7,Male,India,Maharashtra,Mumbai,Clerk,Low,Advanced,Beginner,Math,Video,Basic,86,58.92,83,No
+Regina,6,Female,UK,England,London,Farmer,Middle,Intermediate,Advanced,Math,PDF,Basic,43,61.42,95,Yes
+Justin,15,Male,India,Maharashtra,Pune,Clerk,High,Beginner,Beginner,Math,Quiz,Hard,21,49.03,118,No
+Daniel,6,Female,UK,Scotland,Glasgow,Clerk,High,Beginner,Intermediate,English,Video,Medium,60,67.04,140,Yes
+Curtis,12,Male,USA,Texas,Austin,Doctor,Low,Advanced,Advanced,Science,Quiz,Hard,70,96.7,86,Yes
+Joseph,16,Male,USA,California,San Diego,Business,High,Beginner,Beginner,Math,Video,Basic,67,76.69,80,Yes
+Amanda,10,Male,USA,Texas,Dallas,Engineer,High,Intermediate,Intermediate,Science,Video,Basic,110,73.77,132,Yes
+Dustin,5,Female,India,Karnataka,Bangalore,Doctor,Middle,Beginner,Beginner,English,Quiz,Hard,43,77.67,137,Yes
+Gary,18,Male,UK,Scotland,Glasgow,Business,High,Beginner,Advanced,English,Quiz,Medium,36,79.55,124,Yes
+Russell,8,Female,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Intermediate,Math,Video,Basic,28,71.19,89,Yes
+Larry,14,Male,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Advanced,Math,Quiz,Hard,92,34.01,86,No
+Michele,12,Female,UK,England,London,Doctor,Low,Advanced,Advanced,Science,Quiz,Medium,47,65.4,116,Yes
+Elizabeth,8,Male,India,Maharashtra,Pune,Clerk,Middle,Advanced,Beginner,Science,Video,Medium,91,83.17,93,Yes
+Lauren,15,Male,USA,California,San Diego,Engineer,Middle,Beginner,Intermediate,Math,PDF,Medium,117,76.92,125,Yes
+Olivia,10,Male,UK,England,Manchester,Business,High,Intermediate,Intermediate,Science,Video,Hard,31,76.09,122,Yes
+Brenda,16,Female,India,Maharashtra,Pune,Teacher,Middle,Advanced,Advanced,Science,Video,Hard,30,87.63,117,Yes
+Martin,12,Male,India,Maharashtra,Mumbai,Clerk,Low,Advanced,Beginner,English,PDF,Basic,98,85.91,120,Yes
+David,7,Female,UK,England,London,Farmer,Middle,Beginner,Advanced,Science,Quiz,Basic,66,63.44,100,Yes
+Rachel,12,Female,India,Karnataka,Bangalore,Engineer,Low,Beginner,Beginner,English,Quiz,Medium,104,73.63,123,Yes
+Tiffany,13,Female,USA,California,Los Angeles,Engineer,Middle,Advanced,Beginner,English,Video,Basic,19,75.36,121,Yes
+Shannon,13,Male,USA,Texas,Dallas,Doctor,Low,Beginner,Intermediate,Science,PDF,Medium,18,69.17,121,Yes
+Bryan,10,Male,India,Maharashtra,Mumbai,Business,Low,Intermediate,Intermediate,Math,Video,Basic,41,72.04,100,Yes
+Katherine,6,Female,India,Karnataka,Bangalore,Doctor,Middle,Intermediate,Beginner,English,Quiz,Basic,26,78.25,87,Yes
+Christina,13,Male,UK,England,Manchester,Doctor,High,Beginner,Beginner,Math,Quiz,Hard,46,32.3,109,No
+Taylor,14,Female,USA,California,Los Angeles,Doctor,Low,Beginner,Intermediate,Math,PDF,Basic,113,71.05,91,Yes
+Thomas,11,Male,UK,Scotland,Glasgow,Farmer,Middle,Advanced,Advanced,English,PDF,Hard,92,46.89,127,No
+Marc,6,Female,India,Maharashtra,Pune,Teacher,High,Advanced,Beginner,Science,Video,Hard,42,50.61,90,No
+Kevin,14,Female,India,Karnataka,Mysore,Business,High,Intermediate,Intermediate,Science,Video,Medium,44,77.09,92,Yes
+Robert,16,Female,India,Maharashtra,Mumbai,Engineer,Low,Intermediate,Advanced,Science,Quiz,Hard,77,74.42,130,Yes
+Jeremy,11,Male,India,Karnataka,Mysore,Clerk,Low,Beginner,Beginner,Science,Quiz,Basic,114,57.55,85,No
+Maria,6,Male,USA,Texas,Austin,Clerk,High,Beginner,Intermediate,Science,Quiz,Hard,38,91.89,119,Yes
+Justin,14,Male,USA,California,Los Angeles,Doctor,High,Intermediate,Beginner,English,PDF,Hard,90,67.79,139,Yes
+Angela,6,Male,USA,California,Los Angeles,Clerk,Low,Beginner,Intermediate,English,Quiz,Basic,62,82.35,90,Yes
+Andrea,10,Male,UK,Scotland,Edinburgh,Teacher,Low,Intermediate,Beginner,English,Quiz,Basic,91,85.89,89,Yes
+Roberto,6,Female,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Intermediate,English,Quiz,Medium,45,65.14,83,Yes
+Christina,5,Female,India,Maharashtra,Pune,Farmer,High,Advanced,Beginner,Science,Video,Medium,93,82.48,94,Yes
+Robert,6,Male,India,Maharashtra,Mumbai,Teacher,Middle,Intermediate,Advanced,Math,Quiz,Basic,62,68.39,104,Yes
+John,9,Male,India,Maharashtra,Pune,Engineer,Middle,Intermediate,Intermediate,Math,Quiz,Medium,118,75.31,97,Yes
+Jennifer,9,Female,USA,Texas,Dallas,Teacher,Middle,Beginner,Advanced,English,Video,Basic,46,79.4,81,Yes
+James,13,Male,India,Maharashtra,Mumbai,Business,Middle,Beginner,Advanced,Science,Video,Hard,51,46.98,105,No
+Stacy,8,Male,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Intermediate,English,PDF,Medium,83,77.52,89,Yes
+David,17,Female,UK,Scotland,Glasgow,Clerk,High,Beginner,Advanced,Science,Quiz,Medium,39,69.33,125,Yes
+Brittany,5,Female,India,Maharashtra,Mumbai,Doctor,Low,Beginner,Advanced,Math,PDF,Basic,100,64.47,81,Yes
+Olivia,7,Male,India,Maharashtra,Pune,Doctor,Low,Intermediate,Intermediate,Science,Quiz,Hard,89,67.06,132,Yes
+Jessica,15,Female,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Beginner,English,Quiz,Basic,110,64.97,105,Yes
+Gabrielle,5,Female,India,Karnataka,Mysore,Engineer,Low,Intermediate,Beginner,English,Video,Hard,115,75.2,127,Yes
+Stacey,17,Female,UK,Scotland,Edinburgh,Farmer,High,Beginner,Intermediate,English,Video,Basic,19,69.1,109,Yes
+Brandon,14,Female,UK,Scotland,Glasgow,Business,High,Intermediate,Intermediate,Math,PDF,Basic,118,87.24,83,Yes
+Anthony,17,Male,UK,England,Manchester,Engineer,Middle,Beginner,Advanced,Science,PDF,Hard,81,36.91,105,No
+Jaclyn,8,Female,USA,Texas,Dallas,Engineer,Middle,Advanced,Beginner,Math,PDF,Medium,114,83.49,112,Yes
+Brendan,6,Female,USA,Texas,Dallas,Farmer,High,Intermediate,Intermediate,Science,Video,Basic,74,98.05,120,Yes
+Jacqueline,12,Male,UK,England,Manchester,Farmer,High,Advanced,Beginner,English,Video,Hard,102,69.6,89,Yes
+Colleen,14,Male,India,Maharashtra,Mumbai,Teacher,High,Beginner,Intermediate,English,Video,Medium,57,74.4,86,Yes
+Lisa,14,Female,UK,Scotland,Edinburgh,Clerk,High,Advanced,Beginner,Science,PDF,Hard,118,85.51,125,Yes
+Charles,14,Female,India,Karnataka,Bangalore,Clerk,High,Beginner,Beginner,Science,Quiz,Hard,112,60.41,133,Yes
+Edward,14,Male,UK,England,London,Farmer,Middle,Intermediate,Advanced,Science,PDF,Basic,83,72.29,88,Yes
+Joel,8,Female,UK,Scotland,Glasgow,Business,High,Intermediate,Advanced,Math,Video,Hard,54,46.37,101,No
+Deborah,10,Female,USA,Texas,Austin,Engineer,Low,Intermediate,Intermediate,English,PDF,Medium,99,60.87,125,Yes
+Thomas,18,Male,UK,Scotland,Glasgow,Clerk,High,Advanced,Advanced,English,Video,Hard,75,65.0,120,Yes
+Sharon,15,Female,USA,Texas,Austin,Doctor,Middle,Intermediate,Beginner,Science,PDF,Basic,26,67.99,92,Yes
+Richard,16,Female,UK,Scotland,Edinburgh,Engineer,Low,Beginner,Advanced,Math,Quiz,Medium,27,94.14,95,Yes
+Travis,16,Male,UK,Scotland,Edinburgh,Clerk,High,Intermediate,Advanced,Science,Video,Hard,103,47.31,138,No
+Joseph,10,Male,UK,Scotland,Glasgow,Teacher,Low,Intermediate,Intermediate,Science,Quiz,Medium,89,82.58,116,Yes
+Sandra,6,Male,UK,Scotland,Glasgow,Doctor,Low,Intermediate,Intermediate,Math,Video,Medium,14,59.95,122,No
+Misty,13,Female,USA,Texas,Austin,Teacher,High,Advanced,Intermediate,Science,Quiz,Basic,34,56.08,121,No
+Andrew,16,Male,USA,California,Los Angeles,Farmer,Low,Advanced,Advanced,Math,PDF,Medium,28,71.05,94,Yes
+Zachary,9,Male,India,Maharashtra,Mumbai,Teacher,Middle,Intermediate,Advanced,Math,Video,Basic,119,64.92,106,Yes
+Timothy,14,Female,USA,California,Los Angeles,Doctor,Middle,Beginner,Intermediate,Science,Video,Basic,100,66.83,96,Yes
+Bruce,14,Female,USA,California,San Diego,Doctor,High,Advanced,Beginner,Science,Video,Medium,22,81.92,91,Yes
+Katherine,14,Female,USA,Texas,Dallas,Farmer,High,Beginner,Beginner,English,PDF,Hard,72,79.4,102,Yes
+Stacy,13,Female,UK,Scotland,Glasgow,Farmer,High,Beginner,Beginner,Math,Quiz,Hard,34,58.03,86,No
+Raymond,5,Male,India,Karnataka,Mysore,Teacher,Low,Beginner,Advanced,English,PDF,Medium,57,90.64,120,Yes
+Brian,5,Female,India,Maharashtra,Pune,Clerk,High,Intermediate,Beginner,English,Quiz,Hard,26,97.56,130,Yes
+James,11,Male,UK,Scotland,Glasgow,Engineer,High,Advanced,Intermediate,Science,Video,Hard,39,89.92,111,Yes
+Brittney,15,Female,USA,California,Los Angeles,Business,Middle,Intermediate,Advanced,Math,PDF,Basic,109,68.17,118,Yes
+Andrew,13,Female,India,Maharashtra,Pune,Engineer,High,Beginner,Intermediate,English,PDF,Hard,30,82.95,82,Yes
+Betty,18,Male,UK,Scotland,Glasgow,Engineer,Middle,Intermediate,Advanced,Math,PDF,Basic,45,93.89,93,Yes
+Dawn,13,Female,USA,Texas,Dallas,Doctor,Middle,Advanced,Advanced,Math,Quiz,Hard,83,74.6,116,Yes
+Sheryl,12,Male,India,Karnataka,Mysore,Teacher,High,Beginner,Beginner,English,Video,Basic,33,100.0,87,Yes
+Sean,12,Female,UK,Scotland,Edinburgh,Business,Low,Intermediate,Advanced,English,Video,Hard,120,68.22,89,Yes
+Joshua,6,Male,UK,Scotland,Glasgow,Teacher,Low,Beginner,Intermediate,Math,PDF,Basic,67,60.9,106,Yes
+Robert,17,Female,India,Maharashtra,Pune,Engineer,Low,Beginner,Intermediate,Science,PDF,Basic,36,64.77,105,Yes
+Nancy,5,Female,India,Maharashtra,Mumbai,Business,Middle,Beginner,Advanced,English,PDF,Medium,37,62.04,94,Yes
+Heather,17,Male,UK,Scotland,Glasgow,Business,Low,Intermediate,Intermediate,Math,Video,Medium,43,52.17,118,No
+Alyssa,9,Male,USA,California,San Diego,Engineer,High,Advanced,Intermediate,Math,PDF,Hard,31,38.57,137,No
+Joseph,6,Female,USA,California,San Diego,Teacher,High,Beginner,Advanced,Science,PDF,Hard,18,54.59,114,No
+Jonathan,12,Female,USA,California,Los Angeles,Doctor,Middle,Beginner,Advanced,Science,Video,Basic,91,59.75,92,No
+Eric,7,Male,India,Karnataka,Bangalore,Farmer,Middle,Advanced,Beginner,Science,Video,Basic,117,83.59,107,Yes
+Christopher,6,Male,UK,England,Manchester,Teacher,High,Advanced,Advanced,English,Quiz,Basic,101,77.77,126,Yes
+Jacob,12,Male,UK,Scotland,Glasgow,Engineer,High,Beginner,Beginner,Science,Quiz,Medium,59,90.8,116,Yes
+Melissa,12,Male,USA,Texas,Austin,Business,Low,Beginner,Beginner,English,PDF,Medium,83,100.0,99,Yes
+Patricia,9,Female,UK,Scotland,Glasgow,Clerk,High,Advanced,Intermediate,English,Video,Basic,66,77.64,83,Yes
+Richard,17,Male,India,Maharashtra,Pune,Doctor,Low,Beginner,Intermediate,English,Quiz,Hard,99,48.64,105,No
+Benjamin,8,Male,USA,Texas,Austin,Clerk,Middle,Advanced,Intermediate,Science,Video,Basic,116,59.1,126,No
+Angela,18,Male,India,Karnataka,Mysore,Engineer,High,Advanced,Intermediate,Math,Video,Medium,88,100.0,123,Yes
+Thomas,5,Female,UK,England,Manchester,Teacher,High,Advanced,Advanced,Math,Quiz,Medium,18,67.44,80,Yes
+Jeffery,17,Male,UK,Scotland,Edinburgh,Business,High,Beginner,Beginner,English,Video,Medium,114,72.1,124,Yes
+Ryan,10,Male,USA,Texas,Austin,Doctor,Low,Advanced,Intermediate,Math,Video,Basic,52,73.39,94,Yes
+Jennifer,11,Female,USA,California,San Diego,Engineer,Low,Advanced,Advanced,Science,Quiz,Basic,67,82.28,108,Yes
+Chelsea,5,Female,USA,Texas,Austin,Engineer,Low,Advanced,Intermediate,Math,Video,Basic,61,69.01,97,Yes
+Logan,10,Male,India,Maharashtra,Pune,Doctor,Middle,Beginner,Advanced,English,PDF,Basic,113,76.57,100,Yes
+Keith,13,Female,UK,Scotland,Edinburgh,Teacher,Middle,Beginner,Intermediate,Science,Quiz,Basic,42,91.37,125,Yes
+Kristen,12,Female,USA,California,San Diego,Business,Low,Beginner,Advanced,English,PDF,Basic,55,86.81,136,Yes
+Denise,16,Male,USA,California,Los Angeles,Engineer,Low,Beginner,Advanced,Science,PDF,Basic,53,52.93,107,No
+Tiffany,10,Male,USA,Texas,Austin,Doctor,Middle,Advanced,Beginner,English,Video,Hard,52,92.39,114,Yes
+Andrew,8,Female,India,Karnataka,Mysore,Teacher,Low,Beginner,Beginner,Math,Video,Basic,17,64.93,106,Yes
+Alec,12,Female,USA,California,Los Angeles,Farmer,Middle,Advanced,Intermediate,English,PDF,Medium,109,80.82,103,Yes
+Richard,7,Female,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Beginner,Math,Quiz,Basic,49,59.83,90,No
+Justin,16,Female,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Advanced,Math,PDF,Hard,63,53.82,117,No
+Diana,15,Male,UK,England,Manchester,Teacher,High,Advanced,Beginner,English,Video,Medium,65,60.55,85,Yes
+Douglas,8,Male,UK,England,London,Business,Middle,Beginner,Intermediate,English,Quiz,Hard,50,78.33,133,Yes
+Jeffrey,11,Male,India,Karnataka,Bangalore,Teacher,High,Beginner,Beginner,English,Video,Medium,115,61.68,106,Yes
+Timothy,12,Female,UK,England,London,Engineer,Low,Intermediate,Beginner,Science,PDF,Basic,117,77.26,103,Yes
+Timothy,8,Male,USA,California,Los Angeles,Teacher,Low,Intermediate,Intermediate,English,Quiz,Hard,82,49.75,137,No
+Christine,8,Male,USA,California,Los Angeles,Engineer,Middle,Beginner,Advanced,English,Video,Hard,45,70.73,107,Yes
+Joe,6,Male,USA,California,Los Angeles,Teacher,Low,Advanced,Beginner,English,Video,Medium,73,88.76,103,Yes
+Paula,11,Female,USA,Texas,Austin,Engineer,Low,Beginner,Beginner,Science,Video,Medium,28,75.5,96,Yes
+Julie,14,Male,India,Karnataka,Bangalore,Clerk,Middle,Advanced,Advanced,Science,Quiz,Basic,110,78.9,94,Yes
+Elizabeth,13,Male,UK,England,London,Business,High,Advanced,Beginner,English,Video,Basic,38,86.28,99,Yes
+Megan,16,Male,UK,England,London,Clerk,High,Advanced,Beginner,Science,PDF,Basic,29,100.0,109,Yes
+Julie,11,Female,UK,England,London,Clerk,High,Advanced,Advanced,English,PDF,Hard,78,58.34,93,No
+Melissa,8,Male,UK,Scotland,Glasgow,Clerk,Low,Beginner,Intermediate,Science,Video,Hard,85,63.1,127,Yes
+Michael,13,Female,India,Maharashtra,Pune,Doctor,Middle,Beginner,Advanced,English,PDF,Hard,48,61.17,128,Yes
+Taylor,9,Male,India,Maharashtra,Pune,Business,High,Intermediate,Advanced,English,Quiz,Hard,87,71.37,111,Yes
+Christopher,15,Male,India,Maharashtra,Mumbai,Business,Low,Intermediate,Beginner,Math,Video,Basic,41,43.42,120,No
+Marissa,16,Female,India,Maharashtra,Pune,Clerk,High,Beginner,Beginner,Science,Video,Basic,41,39.13,125,No
+Kelly,16,Female,USA,California,Los Angeles,Engineer,Middle,Advanced,Advanced,English,Video,Basic,103,57.6,90,No
+Emily,14,Female,UK,Scotland,Glasgow,Farmer,Low,Advanced,Advanced,Math,Video,Medium,16,77.09,107,Yes
+Amanda,16,Male,USA,California,Los Angeles,Business,Low,Intermediate,Advanced,Math,Video,Medium,97,61.1,88,Yes
+Jamie,7,Male,India,Maharashtra,Pune,Engineer,Low,Beginner,Advanced,Science,Video,Medium,14,62.25,100,Yes
+Matthew,15,Female,India,Karnataka,Mysore,Farmer,Low,Advanced,Advanced,English,Quiz,Hard,52,52.03,113,No
+James,12,Female,India,Maharashtra,Mumbai,Clerk,Low,Intermediate,Beginner,Math,PDF,Hard,94,76.13,134,Yes
+Kayla,17,Male,UK,Scotland,Edinburgh,Teacher,Middle,Advanced,Intermediate,Math,PDF,Hard,28,71.0,104,Yes
+Jason,12,Male,India,Maharashtra,Pune,Engineer,Middle,Advanced,Beginner,Math,Video,Basic,19,68.42,125,Yes
+Lindsey,15,Female,UK,England,Manchester,Engineer,Low,Beginner,Advanced,Science,PDF,Medium,110,77.28,89,Yes
+Danny,17,Male,UK,England,London,Doctor,Low,Beginner,Beginner,Math,PDF,Medium,13,71.89,105,Yes
+Joel,9,Male,USA,Texas,Dallas,Doctor,High,Intermediate,Intermediate,English,Quiz,Medium,43,38.59,128,No
+Kimberly,16,Female,USA,Texas,Austin,Farmer,High,Advanced,Intermediate,Science,Video,Hard,75,52.97,88,No
+Angela,7,Female,USA,California,San Diego,Clerk,High,Beginner,Advanced,Science,PDF,Hard,113,61.71,80,Yes
+Annette,11,Female,India,Maharashtra,Pune,Doctor,Low,Beginner,Advanced,Math,Quiz,Basic,22,96.18,101,Yes
+Jodi,17,Female,India,Karnataka,Bangalore,Doctor,High,Intermediate,Beginner,Science,Video,Hard,72,41.61,95,No
+Patrick,9,Female,India,Maharashtra,Mumbai,Clerk,Middle,Advanced,Intermediate,Math,PDF,Hard,43,82.01,140,Yes
+William,18,Female,UK,Scotland,Edinburgh,Clerk,Low,Intermediate,Intermediate,Science,Quiz,Medium,53,75.51,114,Yes
+Chelsea,13,Male,USA,Texas,Austin,Farmer,Low,Beginner,Intermediate,Math,PDF,Basic,72,86.35,101,Yes
+Joseph,5,Male,India,Maharashtra,Pune,Farmer,High,Intermediate,Beginner,English,PDF,Hard,10,70.17,109,Yes
+Steven,15,Female,India,Karnataka,Mysore,Engineer,High,Advanced,Advanced,English,Quiz,Basic,107,61.11,118,Yes
+Matthew,6,Female,India,Karnataka,Mysore,Business,Low,Beginner,Beginner,English,Quiz,Hard,96,54.48,117,No
+Megan,7,Male,India,Karnataka,Mysore,Clerk,High,Advanced,Beginner,English,Video,Basic,60,69.75,140,Yes
+Lindsay,17,Male,UK,England,London,Teacher,Middle,Advanced,Intermediate,English,Video,Hard,12,91.11,99,Yes
+Dana,7,Male,USA,California,San Diego,Farmer,Middle,Beginner,Intermediate,Math,Quiz,Medium,101,43.68,110,No
+Jeremy,8,Female,India,Maharashtra,Pune,Teacher,High,Intermediate,Advanced,English,Quiz,Basic,16,80.49,104,Yes
+Dawn,11,Female,USA,California,San Diego,Teacher,High,Advanced,Beginner,English,PDF,Basic,77,71.8,125,Yes
+Michele,9,Female,USA,Texas,Austin,Teacher,Middle,Beginner,Advanced,Science,Quiz,Basic,53,70.23,134,Yes
+Leah,12,Female,India,Karnataka,Mysore,Farmer,High,Beginner,Advanced,Science,Video,Basic,102,81.2,119,Yes
+Larry,15,Male,USA,California,San Diego,Teacher,High,Beginner,Intermediate,Science,Quiz,Hard,62,79.64,86,Yes
+Christy,5,Female,USA,California,Los Angeles,Farmer,High,Advanced,Advanced,English,PDF,Basic,86,79.45,96,Yes
+Joshua,18,Male,India,Maharashtra,Mumbai,Clerk,Middle,Advanced,Beginner,English,PDF,Medium,102,32.44,116,No
+Jamie,15,Female,India,Maharashtra,Mumbai,Engineer,Middle,Beginner,Intermediate,Math,Quiz,Hard,33,70.17,131,Yes
+Angel,7,Female,USA,Texas,Dallas,Farmer,Middle,Intermediate,Beginner,Science,PDF,Hard,68,95.75,137,Yes
+Valerie,10,Female,UK,England,Manchester,Clerk,Middle,Beginner,Intermediate,Math,PDF,Hard,98,78.45,115,Yes
+Mark,17,Female,India,Maharashtra,Pune,Doctor,Middle,Beginner,Beginner,English,Video,Medium,21,72.6,120,Yes
+Nicholas,13,Male,USA,Texas,Dallas,Farmer,Low,Intermediate,Advanced,Science,Quiz,Medium,32,83.06,81,Yes
+James,13,Female,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Beginner,Science,Video,Hard,74,66.83,100,Yes
+Jacob,18,Male,India,Maharashtra,Pune,Clerk,Middle,Advanced,Intermediate,English,Quiz,Basic,47,75.51,82,Yes
+Bailey,13,Male,UK,England,London,Clerk,Low,Beginner,Beginner,Science,Video,Basic,13,77.58,139,Yes
+Carmen,13,Male,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Beginner,Science,Video,Medium,51,63.83,96,Yes
+Sylvia,17,Female,India,Maharashtra,Mumbai,Doctor,High,Intermediate,Beginner,Math,Quiz,Hard,102,96.48,116,Yes
+Michael,13,Male,India,Karnataka,Mysore,Teacher,High,Intermediate,Beginner,Science,Quiz,Hard,33,60.18,93,Yes
+Michael,14,Male,India,Karnataka,Mysore,Teacher,Middle,Beginner,Advanced,Science,Quiz,Hard,102,49.89,102,No
+Richard,16,Male,India,Karnataka,Mysore,Farmer,High,Advanced,Intermediate,Math,Quiz,Hard,22,100.0,96,Yes
+Christina,18,Male,India,Maharashtra,Pune,Farmer,High,Intermediate,Intermediate,Math,Quiz,Basic,20,68.22,97,Yes
+Kathleen,10,Male,USA,California,San Diego,Engineer,Low,Beginner,Advanced,Math,Video,Basic,109,75.89,136,Yes
+Bethany,11,Female,USA,California,Los Angeles,Farmer,Middle,Advanced,Advanced,Math,Quiz,Basic,56,77.38,121,Yes
+Rebecca,17,Female,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Beginner,Science,PDF,Hard,26,41.2,122,No
+Catherine,13,Female,India,Maharashtra,Pune,Doctor,High,Beginner,Beginner,Math,Quiz,Medium,65,72.21,123,Yes
+Andrea,17,Male,USA,California,San Diego,Business,High,Advanced,Beginner,Math,Video,Medium,103,87.63,110,Yes
+Wanda,5,Male,USA,California,Los Angeles,Doctor,High,Intermediate,Beginner,English,PDF,Basic,110,66.28,81,Yes
+Scott,14,Female,India,Karnataka,Bangalore,Clerk,High,Beginner,Beginner,Math,Video,Medium,75,68.26,85,Yes
+Cynthia,5,Male,UK,England,Manchester,Clerk,High,Advanced,Intermediate,Science,Quiz,Hard,111,60.23,80,Yes
+David,15,Male,UK,England,Manchester,Farmer,Low,Advanced,Advanced,Math,Video,Hard,10,72.52,89,Yes
+Curtis,15,Male,UK,England,Manchester,Business,Middle,Intermediate,Intermediate,Math,PDF,Hard,26,50.92,132,No
+Ashley,6,Female,India,Maharashtra,Mumbai,Doctor,Low,Beginner,Intermediate,Math,Quiz,Basic,78,77.01,101,Yes
+Brandy,17,Female,UK,Scotland,Glasgow,Teacher,Low,Advanced,Advanced,Math,PDF,Hard,118,52.55,126,No
+Mark,11,Male,UK,Scotland,Glasgow,Clerk,Low,Beginner,Beginner,Science,PDF,Hard,35,57.31,116,No
+Joann,5,Female,USA,California,Los Angeles,Business,High,Beginner,Intermediate,English,PDF,Basic,22,89.56,82,Yes
+Beth,18,Female,USA,California,Los Angeles,Farmer,High,Advanced,Intermediate,Science,Quiz,Medium,12,78.09,106,Yes
+David,14,Female,India,Karnataka,Bangalore,Teacher,High,Beginner,Advanced,English,Video,Hard,47,64.86,138,Yes
+Jasmine,13,Female,UK,Scotland,Edinburgh,Clerk,Low,Advanced,Advanced,Science,Quiz,Basic,30,77.81,95,Yes
+Mark,15,Female,India,Karnataka,Mysore,Farmer,Middle,Beginner,Beginner,Science,Quiz,Medium,22,63.22,113,Yes
+Dennis,12,Male,UK,England,London,Teacher,Middle,Advanced,Advanced,English,Video,Hard,97,62.79,98,Yes
+Judy,10,Male,UK,Scotland,Glasgow,Clerk,High,Beginner,Beginner,Math,PDF,Hard,14,79.89,83,Yes
+Michael,6,Female,India,Maharashtra,Pune,Teacher,Low,Beginner,Advanced,Math,Quiz,Hard,102,70.77,105,Yes
+Geoffrey,6,Male,UK,Scotland,Glasgow,Teacher,Middle,Intermediate,Intermediate,Math,Video,Medium,17,71.44,93,Yes
+Wesley,16,Female,UK,England,Manchester,Teacher,High,Beginner,Beginner,Science,Quiz,Hard,93,67.18,114,Yes
+Margaret,10,Female,India,Karnataka,Bangalore,Engineer,Middle,Advanced,Advanced,Math,Video,Basic,37,58.5,117,No
+Brianna,16,Female,USA,Texas,Dallas,Farmer,Low,Beginner,Advanced,Math,Quiz,Basic,48,50.27,106,No
+Jonathan,9,Male,USA,Texas,Dallas,Engineer,High,Advanced,Advanced,Math,Quiz,Hard,117,72.5,134,Yes
+Dawn,12,Female,USA,California,San Diego,Business,Middle,Advanced,Advanced,English,Quiz,Hard,60,81.79,120,Yes
+Steve,10,Female,UK,Scotland,Edinburgh,Clerk,High,Beginner,Intermediate,English,Video,Basic,107,88.81,131,Yes
+Jermaine,17,Female,India,Karnataka,Mysore,Clerk,Middle,Advanced,Advanced,Math,Quiz,Basic,99,87.1,97,Yes
+Michael,12,Female,UK,England,London,Engineer,Low,Intermediate,Intermediate,English,Quiz,Medium,120,80.75,80,Yes
+Crystal,14,Male,USA,Texas,Austin,Farmer,High,Intermediate,Intermediate,English,Video,Basic,74,77.98,130,Yes
+Rebecca,15,Male,USA,Texas,Dallas,Doctor,High,Intermediate,Advanced,Science,Video,Basic,120,64.48,108,Yes
+April,10,Male,India,Karnataka,Mysore,Teacher,High,Advanced,Intermediate,Science,Quiz,Hard,83,58.44,82,No
+Andrew,16,Male,USA,Texas,Dallas,Clerk,Low,Advanced,Advanced,Math,Quiz,Medium,64,67.02,132,Yes
+John,7,Female,USA,Texas,Austin,Teacher,Low,Intermediate,Intermediate,English,PDF,Medium,104,43.81,95,No
+Willie,13,Female,UK,England,Manchester,Doctor,Middle,Beginner,Intermediate,English,PDF,Hard,108,84.23,122,Yes
+Melissa,18,Female,UK,Scotland,Glasgow,Engineer,Low,Advanced,Advanced,Math,Video,Hard,59,76.92,130,Yes
+Jacqueline,18,Female,India,Karnataka,Mysore,Clerk,High,Intermediate,Advanced,Math,Video,Medium,59,65.39,109,Yes
+John,17,Male,USA,Texas,Austin,Clerk,Low,Advanced,Beginner,Math,Quiz,Basic,18,55.49,109,No
+Hunter,7,Female,USA,Texas,Austin,Doctor,High,Beginner,Beginner,Math,PDF,Basic,41,65.81,126,Yes
+Kaitlin,9,Male,USA,Texas,Austin,Engineer,Low,Beginner,Intermediate,English,PDF,Hard,103,96.05,122,Yes
+Raymond,5,Male,India,Maharashtra,Mumbai,Farmer,High,Intermediate,Beginner,Math,PDF,Medium,110,62.67,114,Yes
+Ann,16,Female,UK,England,London,Teacher,Low,Intermediate,Intermediate,English,Quiz,Medium,87,100.0,137,Yes
+Jeff,11,Female,India,Maharashtra,Mumbai,Doctor,Middle,Advanced,Beginner,Science,Video,Hard,82,59.09,99,No
+Margaret,15,Female,USA,California,San Diego,Business,Middle,Intermediate,Advanced,English,PDF,Hard,81,54.44,107,No
+Anna,8,Female,USA,Texas,Dallas,Farmer,Middle,Advanced,Beginner,English,PDF,Basic,15,81.65,113,Yes
+Meghan,10,Female,UK,Scotland,Glasgow,Doctor,High,Advanced,Beginner,Science,PDF,Basic,33,78.54,121,Yes
+Michael,10,Male,India,Maharashtra,Mumbai,Clerk,Low,Advanced,Intermediate,Science,Video,Hard,20,72.64,107,Yes
+Michael,6,Female,USA,Texas,Austin,Teacher,Middle,Intermediate,Beginner,English,Quiz,Basic,86,57.33,85,No
+Roberto,11,Female,India,Maharashtra,Pune,Engineer,Low,Advanced,Beginner,Math,PDF,Medium,105,73.15,128,Yes
+Amber,18,Female,UK,England,Manchester,Teacher,Middle,Advanced,Advanced,Math,Quiz,Medium,91,45.27,133,No
+Natalie,6,Female,UK,Scotland,Glasgow,Teacher,Middle,Advanced,Beginner,English,Video,Basic,97,65.09,93,Yes
+Jay,10,Male,UK,England,London,Clerk,Low,Intermediate,Beginner,Science,Video,Basic,56,61.25,86,Yes
+Dennis,18,Male,UK,Scotland,Glasgow,Doctor,High,Beginner,Intermediate,Math,Quiz,Hard,41,92.7,115,Yes
+Alexander,7,Male,India,Karnataka,Mysore,Doctor,High,Beginner,Intermediate,English,Video,Basic,67,96.14,137,Yes
+Justin,11,Female,UK,Scotland,Edinburgh,Teacher,Low,Advanced,Beginner,English,Video,Basic,12,63.2,110,Yes
+Stephanie,17,Female,UK,Scotland,Glasgow,Engineer,High,Beginner,Advanced,Math,Quiz,Hard,88,55.77,93,No
+Jennifer,12,Female,UK,Scotland,Glasgow,Teacher,High,Advanced,Advanced,Science,Video,Basic,18,85.01,87,Yes
+Lori,13,Female,USA,Texas,Austin,Farmer,High,Beginner,Advanced,Science,Video,Hard,114,93.11,140,Yes
+Kenneth,15,Female,UK,Scotland,Glasgow,Doctor,High,Beginner,Beginner,English,PDF,Hard,10,76.05,100,Yes
+Leah,14,Male,USA,Texas,Austin,Doctor,High,Advanced,Beginner,Math,PDF,Medium,80,50.91,127,No
+Justin,7,Female,USA,Texas,Dallas,Teacher,Middle,Advanced,Advanced,Science,Video,Hard,44,58.12,115,No
+Jennifer,5,Female,UK,Scotland,Edinburgh,Engineer,Low,Intermediate,Beginner,Math,PDF,Basic,21,62.75,123,Yes
+Scott,15,Male,India,Karnataka,Mysore,Farmer,Low,Beginner,Beginner,Science,Quiz,Basic,60,49.38,102,No
+Donald,16,Female,India,Maharashtra,Pune,Teacher,High,Intermediate,Advanced,Math,Quiz,Basic,59,81.22,106,Yes
+Brian,11,Female,India,Karnataka,Mysore,Business,Middle,Advanced,Beginner,Math,Quiz,Medium,36,61.78,89,Yes
+Dawn,15,Male,USA,Texas,Dallas,Engineer,Middle,Beginner,Intermediate,Science,Quiz,Hard,70,82.65,114,Yes
+Bruce,17,Female,USA,California,Los Angeles,Teacher,Low,Advanced,Advanced,English,PDF,Hard,44,80.55,93,Yes
+Cheyenne,5,Female,UK,England,London,Business,High,Beginner,Beginner,Science,Quiz,Basic,40,65.64,139,Yes
+Joshua,8,Female,UK,England,Manchester,Business,Middle,Intermediate,Intermediate,English,Video,Hard,59,63.62,110,Yes
+Wesley,10,Female,India,Maharashtra,Pune,Teacher,Middle,Beginner,Beginner,Science,Video,Hard,17,59.04,126,No
+Jonathan,12,Female,India,Maharashtra,Pune,Engineer,Middle,Beginner,Beginner,Math,PDF,Hard,68,55.66,120,No
+Sandra,14,Male,India,Maharashtra,Mumbai,Clerk,Low,Advanced,Beginner,Math,Video,Medium,52,85.24,118,Yes
+Karen,7,Male,UK,Scotland,Glasgow,Farmer,High,Intermediate,Advanced,English,Quiz,Hard,35,58.6,115,No
+Jose,6,Female,India,Karnataka,Mysore,Engineer,Low,Beginner,Advanced,Math,Quiz,Medium,93,78.49,114,Yes
+Tracy,8,Male,UK,England,London,Engineer,High,Advanced,Intermediate,English,PDF,Basic,34,39.04,126,No
+Paige,14,Male,India,Karnataka,Bangalore,Teacher,Middle,Intermediate,Advanced,Math,Video,Basic,27,88.76,132,Yes
+Raymond,15,Female,USA,Texas,Austin,Business,High,Advanced,Intermediate,Math,PDF,Medium,11,92.14,118,Yes
+Troy,10,Female,UK,England,Manchester,Clerk,Middle,Advanced,Advanced,English,Video,Hard,87,88.57,113,Yes
+Peter,17,Female,India,Maharashtra,Pune,Doctor,Middle,Intermediate,Beginner,English,Quiz,Medium,107,72.34,105,Yes
+Joseph,14,Male,UK,England,London,Farmer,High,Advanced,Beginner,English,Video,Basic,46,70.12,101,Yes
+Charles,12,Male,USA,Texas,Austin,Business,High,Advanced,Advanced,Science,Video,Medium,66,46.27,92,No
+Melissa,6,Female,USA,Texas,Austin,Business,Low,Beginner,Beginner,English,Quiz,Hard,80,74.03,124,Yes
+Laura,11,Male,India,Karnataka,Bangalore,Clerk,Middle,Advanced,Intermediate,Math,Quiz,Medium,93,67.43,114,Yes
+Jessica,11,Female,UK,Scotland,Edinburgh,Teacher,High,Intermediate,Beginner,Math,Quiz,Hard,113,19.37,91,No
+Kylie,6,Male,USA,Texas,Dallas,Teacher,High,Beginner,Beginner,Science,Quiz,Hard,81,72.71,138,Yes
+Diana,17,Male,India,Maharashtra,Mumbai,Doctor,Middle,Advanced,Advanced,English,Video,Hard,13,46.31,132,No
+Richard,15,Male,USA,Texas,Austin,Business,High,Intermediate,Advanced,Science,Quiz,Hard,19,80.06,86,Yes
+Stacey,15,Female,India,Karnataka,Bangalore,Business,High,Advanced,Beginner,English,Video,Medium,95,54.85,112,No
+John,11,Male,UK,Scotland,Edinburgh,Engineer,Middle,Intermediate,Beginner,Math,PDF,Medium,26,62.88,130,Yes
+Jennifer,16,Female,UK,England,London,Doctor,Low,Intermediate,Beginner,Math,Video,Hard,34,91.94,83,Yes
+Christopher,5,Male,UK,Scotland,Glasgow,Clerk,High,Intermediate,Advanced,Math,Quiz,Hard,96,66.23,121,Yes
+Andrea,18,Male,USA,Texas,Dallas,Doctor,High,Beginner,Intermediate,Science,Quiz,Medium,63,100.0,101,Yes
+Phillip,15,Male,UK,Scotland,Edinburgh,Farmer,Low,Advanced,Advanced,Math,Video,Medium,116,69.25,89,Yes
+Bryce,11,Male,India,Karnataka,Bangalore,Business,Low,Advanced,Beginner,Math,PDF,Basic,100,71.25,115,Yes
+Mike,7,Male,UK,England,Manchester,Teacher,High,Intermediate,Beginner,Math,PDF,Medium,41,43.47,107,No
+Leslie,11,Female,UK,England,Manchester,Engineer,Middle,Intermediate,Beginner,Science,Video,Basic,27,67.5,108,Yes
+Joseph,8,Female,USA,California,San Diego,Farmer,High,Advanced,Beginner,Science,Quiz,Medium,90,58.03,98,No
+Lisa,12,Male,UK,England,London,Farmer,Middle,Beginner,Intermediate,Science,PDF,Medium,40,62.92,107,Yes
+Matthew,9,Female,UK,Scotland,Edinburgh,Business,Middle,Beginner,Beginner,Science,Video,Hard,99,73.31,127,Yes
+Meagan,16,Male,UK,England,London,Doctor,High,Advanced,Beginner,Science,Video,Medium,45,100.0,88,Yes
+Jennifer,6,Female,USA,Texas,Dallas,Teacher,Middle,Intermediate,Beginner,Science,Video,Hard,111,50.55,110,No
+Janet,10,Male,UK,England,Manchester,Engineer,Low,Intermediate,Advanced,English,Quiz,Hard,74,73.78,139,Yes
+Kelly,14,Female,UK,England,Manchester,Teacher,High,Advanced,Intermediate,English,Video,Basic,25,49.36,107,No
+Samuel,6,Male,USA,California,Los Angeles,Clerk,High,Advanced,Beginner,Science,Quiz,Hard,95,67.28,101,Yes
+Christopher,9,Female,India,Maharashtra,Mumbai,Doctor,High,Intermediate,Intermediate,Math,Quiz,Medium,102,66.17,108,Yes
+Elizabeth,10,Female,India,Karnataka,Mysore,Teacher,High,Advanced,Advanced,Math,Quiz,Hard,55,64.72,100,Yes
+Tara,13,Female,UK,Scotland,Glasgow,Clerk,Low,Beginner,Advanced,Science,PDF,Medium,110,88.48,100,Yes
+David,5,Female,USA,California,San Diego,Clerk,Middle,Beginner,Beginner,Math,PDF,Medium,63,82.08,128,Yes
+Alexa,9,Male,USA,California,San Diego,Doctor,Middle,Advanced,Advanced,English,PDF,Medium,76,50.96,118,No
+Victoria,16,Male,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Advanced,Science,Video,Hard,59,65.99,129,Yes
+Barbara,8,Female,UK,Scotland,Edinburgh,Business,Low,Advanced,Advanced,Science,Quiz,Basic,53,56.83,133,No
+Tammy,10,Female,India,Karnataka,Bangalore,Clerk,High,Advanced,Advanced,English,PDF,Medium,105,61.28,84,Yes
+Frank,11,Male,USA,California,Los Angeles,Farmer,Middle,Intermediate,Beginner,Math,Quiz,Basic,95,74.79,86,Yes
+Paul,6,Female,UK,England,London,Farmer,Low,Intermediate,Advanced,English,Video,Medium,44,64.63,140,Yes
+Jennifer,11,Female,UK,Scotland,Edinburgh,Engineer,High,Intermediate,Advanced,English,Video,Medium,32,90.52,140,Yes
+Anthony,13,Female,USA,California,Los Angeles,Clerk,Middle,Advanced,Intermediate,English,Quiz,Basic,115,67.17,124,Yes
+Joseph,5,Male,USA,California,Los Angeles,Engineer,Low,Advanced,Intermediate,Math,PDF,Hard,101,54.53,114,No
+Sara,15,Male,India,Maharashtra,Pune,Business,High,Intermediate,Intermediate,Math,Quiz,Basic,83,73.98,108,Yes
+Debbie,12,Female,UK,England,Manchester,Teacher,Middle,Beginner,Advanced,English,Quiz,Medium,101,72.21,90,Yes
+Joseph,13,Female,UK,England,Manchester,Clerk,Middle,Intermediate,Intermediate,Math,Quiz,Medium,67,58.69,118,No
+Daniel,14,Male,USA,California,San Diego,Teacher,Middle,Beginner,Beginner,English,PDF,Medium,119,74.16,105,Yes
+Krystal,12,Male,UK,England,London,Farmer,High,Beginner,Advanced,Math,Video,Basic,78,84.93,91,Yes
+Mary,6,Male,USA,California,San Diego,Doctor,Middle,Intermediate,Intermediate,Science,Video,Medium,43,61.22,82,Yes
+Robin,10,Female,UK,Scotland,Glasgow,Farmer,High,Advanced,Advanced,English,Video,Basic,76,73.4,108,Yes
+Michelle,6,Male,India,Karnataka,Mysore,Engineer,Middle,Advanced,Advanced,Math,Quiz,Hard,40,45.01,90,No
+Jeffery,16,Female,India,Karnataka,Bangalore,Engineer,High,Beginner,Beginner,Science,Quiz,Hard,51,79.09,80,Yes
+Jesse,8,Female,UK,England,London,Business,Middle,Advanced,Beginner,Science,PDF,Hard,109,62.25,84,Yes
+Michael,11,Male,USA,Texas,Austin,Teacher,Low,Beginner,Advanced,Science,PDF,Basic,107,66.59,99,Yes
+Wayne,15,Female,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Intermediate,Science,Quiz,Hard,82,100.0,92,Yes
+Marcus,8,Male,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Advanced,Math,PDF,Medium,105,56.6,123,No
+Christina,11,Female,India,Maharashtra,Pune,Farmer,Middle,Beginner,Beginner,English,PDF,Hard,50,71.75,114,Yes
+Chloe,14,Male,India,Maharashtra,Pune,Business,Low,Intermediate,Beginner,Science,PDF,Medium,33,73.85,135,Yes
+Barbara,14,Female,India,Maharashtra,Mumbai,Engineer,Low,Advanced,Intermediate,Science,Quiz,Hard,35,55.85,92,No
+Rachel,5,Female,UK,Scotland,Glasgow,Engineer,Middle,Beginner,Intermediate,Science,PDF,Basic,99,45.07,114,No
+Patrick,12,Female,India,Karnataka,Bangalore,Teacher,High,Beginner,Advanced,Science,PDF,Medium,80,93.33,93,Yes
+Stacy,10,Male,USA,Texas,Dallas,Business,High,Advanced,Intermediate,English,PDF,Hard,106,80.92,93,Yes
+John,9,Male,USA,Texas,Austin,Business,Low,Beginner,Intermediate,Math,PDF,Hard,104,25.38,90,No
+Michael,12,Male,USA,California,Los Angeles,Clerk,Low,Beginner,Advanced,English,PDF,Basic,67,54.16,85,No
+Barbara,5,Female,USA,California,San Diego,Business,Middle,Beginner,Beginner,English,PDF,Hard,73,53.85,110,No
+Robert,11,Male,USA,Texas,Austin,Clerk,Low,Intermediate,Advanced,Math,Quiz,Medium,30,81.96,89,Yes
+Jessica,6,Female,UK,England,Manchester,Doctor,Middle,Advanced,Intermediate,English,Quiz,Basic,18,52.26,99,No
+Maria,7,Female,UK,England,Manchester,Doctor,Middle,Beginner,Advanced,Math,Quiz,Hard,94,60.81,96,Yes
+April,9,Female,USA,Texas,Dallas,Teacher,Middle,Intermediate,Beginner,Science,Quiz,Hard,102,43.02,82,No
+Kenneth,18,Male,USA,Texas,Dallas,Doctor,High,Beginner,Advanced,Math,PDF,Basic,29,100.0,131,Yes
+Daniel,15,Male,UK,England,Manchester,Engineer,Low,Advanced,Advanced,Science,Video,Basic,25,80.99,97,Yes
+Sarah,15,Female,India,Karnataka,Bangalore,Engineer,Low,Beginner,Beginner,Math,Quiz,Basic,84,76.65,134,Yes
+Shannon,5,Female,USA,California,San Diego,Clerk,Low,Beginner,Advanced,English,Quiz,Hard,81,58.06,89,No
+Craig,14,Female,USA,California,Los Angeles,Engineer,Middle,Intermediate,Beginner,Science,Video,Basic,87,70.87,97,Yes
+Steven,10,Female,USA,Texas,Dallas,Teacher,Middle,Advanced,Advanced,Math,Video,Hard,63,72.58,102,Yes
+Jill,16,Female,USA,California,Los Angeles,Business,Low,Beginner,Intermediate,English,PDF,Medium,90,81.96,122,Yes
+Natalie,9,Female,India,Maharashtra,Mumbai,Farmer,High,Advanced,Beginner,English,Video,Medium,99,74.82,91,Yes
+Debra,17,Male,USA,Texas,Dallas,Business,High,Intermediate,Advanced,Math,PDF,Basic,63,75.33,136,Yes
+Steven,11,Male,UK,Scotland,Edinburgh,Business,Low,Advanced,Advanced,Science,Quiz,Hard,64,84.01,90,Yes
+Cynthia,12,Female,USA,California,Los Angeles,Teacher,Middle,Intermediate,Beginner,Math,Quiz,Hard,67,72.8,131,Yes
+Heather,17,Male,UK,Scotland,Edinburgh,Teacher,High,Advanced,Advanced,Math,Video,Medium,51,62.1,120,Yes
+Ashley,14,Female,UK,Scotland,Glasgow,Business,Middle,Advanced,Beginner,Science,Quiz,Medium,77,57.65,134,No
+Michael,6,Male,UK,England,London,Business,Low,Intermediate,Advanced,English,Video,Hard,76,84.68,119,Yes
+Taylor,7,Female,UK,Scotland,Glasgow,Doctor,Middle,Beginner,Beginner,Science,PDF,Basic,100,84.62,108,Yes
+Roy,9,Male,UK,England,London,Engineer,Middle,Advanced,Intermediate,English,Quiz,Medium,100,76.61,104,Yes
+Sarah,15,Female,USA,Texas,Austin,Doctor,High,Advanced,Advanced,Math,Quiz,Medium,65,64.61,105,Yes
+Dakota,11,Female,India,Maharashtra,Pune,Clerk,High,Advanced,Intermediate,English,Video,Medium,115,71.52,140,Yes
+Elizabeth,9,Male,USA,California,San Diego,Teacher,Middle,Intermediate,Beginner,Math,Quiz,Basic,29,73.35,106,Yes
+John,11,Male,UK,England,Manchester,Clerk,Low,Intermediate,Intermediate,Science,PDF,Medium,110,63.29,122,Yes
+Sherry,5,Male,UK,England,London,Clerk,Low,Advanced,Advanced,Science,Video,Hard,42,67.18,111,Yes
+Robert,6,Female,India,Maharashtra,Mumbai,Business,Middle,Beginner,Advanced,Math,Video,Basic,66,85.25,111,Yes
+Tiffany,18,Female,USA,California,San Diego,Farmer,Middle,Beginner,Intermediate,Math,PDF,Basic,104,86.4,90,Yes
+Catherine,18,Female,UK,Scotland,Edinburgh,Engineer,High,Beginner,Advanced,Math,PDF,Basic,93,57.63,80,No
+Kayla,5,Female,UK,Scotland,Edinburgh,Doctor,Middle,Beginner,Beginner,Science,Video,Basic,92,95.64,129,Yes
+Sarah,8,Male,UK,Scotland,Glasgow,Teacher,High,Advanced,Intermediate,English,PDF,Medium,31,70.48,131,Yes
+Richard,11,Female,India,Karnataka,Mysore,Farmer,Low,Intermediate,Intermediate,Math,Quiz,Medium,68,72.56,135,Yes
+Paul,16,Male,UK,England,London,Clerk,Middle,Beginner,Beginner,Science,Quiz,Basic,52,77.32,81,Yes
+Kathryn,15,Female,UK,England,London,Farmer,Middle,Advanced,Advanced,English,PDF,Hard,74,96.22,124,Yes
+Stephanie,17,Male,UK,England,London,Doctor,Middle,Beginner,Beginner,Science,Video,Hard,104,73.81,98,Yes
+Benjamin,11,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Beginner,Math,Video,Medium,49,77.5,121,Yes
+Christopher,6,Male,India,Karnataka,Bangalore,Farmer,Middle,Intermediate,Advanced,English,Quiz,Hard,58,94.19,94,Yes
+William,17,Female,UK,England,Manchester,Engineer,High,Advanced,Beginner,Science,Video,Basic,64,73.42,112,Yes
+Seth,16,Male,India,Maharashtra,Mumbai,Clerk,Middle,Advanced,Advanced,Science,Quiz,Hard,37,32.22,129,No
+Bradley,17,Female,USA,Texas,Dallas,Clerk,Middle,Beginner,Beginner,English,Quiz,Basic,90,58.07,117,No
+Michelle,6,Male,USA,California,Los Angeles,Teacher,High,Intermediate,Intermediate,English,PDF,Hard,47,66.76,92,Yes
+Paula,7,Male,India,Maharashtra,Pune,Teacher,High,Intermediate,Advanced,Science,Video,Basic,44,58.56,107,No
+David,16,Female,India,Karnataka,Mysore,Business,High,Advanced,Advanced,English,Quiz,Basic,111,63.49,138,Yes
+William,10,Male,UK,England,Manchester,Farmer,High,Advanced,Beginner,Science,Video,Medium,97,68.52,120,Yes
+Stacey,6,Female,India,Maharashtra,Pune,Doctor,Middle,Advanced,Beginner,Math,PDF,Basic,101,83.69,81,Yes
+Jesse,18,Female,UK,Scotland,Edinburgh,Clerk,High,Intermediate,Advanced,Science,Quiz,Basic,119,51.24,122,No
+James,12,Female,UK,England,London,Teacher,Low,Beginner,Intermediate,Science,Video,Medium,104,62.42,99,Yes
+Natalie,15,Female,USA,California,Los Angeles,Teacher,Middle,Advanced,Intermediate,Math,Video,Hard,119,76.58,102,Yes
+Daisy,14,Female,India,Maharashtra,Mumbai,Business,High,Advanced,Beginner,Math,PDF,Basic,38,66.16,87,Yes
+Tiffany,7,Male,USA,California,Los Angeles,Teacher,Middle,Intermediate,Beginner,Science,Video,Medium,57,62.94,135,Yes
+Richard,13,Male,USA,California,Los Angeles,Business,Low,Intermediate,Beginner,Science,PDF,Medium,26,86.68,81,Yes
+Nichole,11,Male,India,Maharashtra,Pune,Doctor,High,Beginner,Intermediate,Science,Quiz,Medium,94,51.28,111,No
+Kristy,12,Male,India,Maharashtra,Pune,Teacher,High,Intermediate,Intermediate,Math,Quiz,Basic,82,80.03,113,Yes
+Tina,13,Male,USA,California,San Diego,Farmer,Low,Beginner,Beginner,Math,Quiz,Medium,97,48.63,129,No
+Dustin,16,Female,India,Karnataka,Bangalore,Farmer,Middle,Advanced,Intermediate,Science,Video,Basic,73,79.87,93,Yes
+Cynthia,16,Male,India,Karnataka,Bangalore,Engineer,Low,Beginner,Advanced,English,Quiz,Hard,98,78.68,119,Yes
+Thomas,12,Male,UK,Scotland,Edinburgh,Farmer,Low,Beginner,Beginner,English,Video,Hard,109,76.14,137,Yes
+Tara,12,Male,UK,Scotland,Glasgow,Doctor,High,Beginner,Beginner,Science,Quiz,Hard,53,71.64,90,Yes
+Michael,6,Male,India,Maharashtra,Pune,Doctor,Low,Beginner,Intermediate,Science,Quiz,Medium,95,60.33,121,Yes
+Michael,10,Male,UK,Scotland,Glasgow,Farmer,High,Advanced,Intermediate,English,PDF,Medium,39,85.29,128,Yes
+Angel,15,Male,UK,Scotland,Edinburgh,Teacher,Low,Beginner,Advanced,Science,Video,Basic,29,74.85,98,Yes
+James,11,Male,USA,California,Los Angeles,Engineer,Low,Intermediate,Intermediate,Math,PDF,Basic,23,78.07,135,Yes
+Pamela,6,Female,USA,California,Los Angeles,Teacher,Low,Beginner,Intermediate,Science,Quiz,Hard,60,63.85,121,Yes
+Kyle,7,Male,India,Karnataka,Bangalore,Business,Low,Beginner,Intermediate,English,Video,Basic,106,87.16,86,Yes
+Amanda,12,Male,UK,Scotland,Glasgow,Clerk,Middle,Advanced,Intermediate,Math,PDF,Hard,26,53.07,98,No
+Elizabeth,15,Male,UK,Scotland,Edinburgh,Doctor,Middle,Advanced,Intermediate,Science,Quiz,Basic,93,51.57,113,No
+Michael,10,Female,India,Maharashtra,Pune,Business,High,Beginner,Beginner,English,Quiz,Basic,73,52.75,94,No
+Nicole,12,Female,UK,England,London,Business,High,Intermediate,Advanced,English,PDF,Medium,67,65.02,88,Yes
+Alex,18,Male,India,Karnataka,Bangalore,Teacher,High,Intermediate,Advanced,Math,Video,Basic,104,69.32,85,Yes
+Erin,17,Male,UK,England,Manchester,Clerk,Middle,Advanced,Beginner,English,PDF,Medium,25,60.55,87,Yes
+Jacob,7,Male,UK,Scotland,Glasgow,Doctor,High,Beginner,Advanced,Math,PDF,Hard,75,69.08,131,Yes
+Sara,5,Female,India,Karnataka,Bangalore,Clerk,Low,Intermediate,Advanced,English,Quiz,Medium,89,76.85,137,Yes
+Roger,7,Female,USA,Texas,Austin,Teacher,High,Intermediate,Intermediate,English,Video,Hard,50,100.0,122,Yes
+Diane,10,Male,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Beginner,Science,PDF,Medium,57,96.3,101,Yes
+Gabrielle,14,Female,India,Karnataka,Mysore,Business,Middle,Beginner,Intermediate,Science,Video,Basic,76,93.76,138,Yes
+Jerry,14,Female,UK,Scotland,Glasgow,Business,High,Beginner,Advanced,Math,PDF,Medium,38,63.92,90,Yes
+Kayla,13,Male,USA,Texas,Austin,Engineer,Low,Beginner,Intermediate,English,Video,Hard,108,57.92,85,No
+Scott,13,Male,USA,California,Los Angeles,Clerk,Middle,Beginner,Beginner,Science,Quiz,Medium,61,78.44,113,Yes
+Sara,9,Male,UK,England,London,Clerk,Low,Beginner,Beginner,English,Quiz,Basic,23,99.37,122,Yes
+Michael,16,Female,USA,Texas,Dallas,Business,Middle,Intermediate,Intermediate,English,Video,Basic,103,67.19,134,Yes
+Amanda,10,Male,UK,Scotland,Glasgow,Business,High,Advanced,Beginner,English,Quiz,Basic,25,100.0,137,Yes
+Victoria,15,Male,India,Maharashtra,Mumbai,Farmer,High,Beginner,Advanced,Science,Quiz,Hard,72,64.26,103,Yes
+Jennifer,14,Male,India,Karnataka,Bangalore,Doctor,Middle,Advanced,Advanced,Math,Quiz,Basic,87,59.82,80,No
+Michael,13,Male,USA,Texas,Austin,Doctor,Low,Intermediate,Advanced,Science,Video,Medium,82,55.28,127,No
+John,14,Female,India,Karnataka,Mysore,Farmer,Middle,Beginner,Beginner,English,Quiz,Medium,81,79.73,126,Yes
+Patrick,18,Female,UK,Scotland,Glasgow,Engineer,Low,Beginner,Intermediate,Science,Quiz,Medium,11,50.5,116,No
+Stephanie,14,Male,India,Maharashtra,Pune,Engineer,High,Intermediate,Beginner,Science,Video,Hard,52,81.58,92,Yes
+Steven,11,Male,USA,Texas,Austin,Farmer,Low,Advanced,Advanced,English,Video,Medium,119,49.03,136,No
+Paula,5,Male,USA,Texas,Austin,Doctor,High,Advanced,Beginner,English,Quiz,Basic,14,76.36,136,Yes
+Sandra,8,Female,USA,California,San Diego,Teacher,Low,Beginner,Beginner,English,Video,Medium,57,60.9,114,Yes
+Kelli,12,Male,UK,England,London,Clerk,Middle,Intermediate,Intermediate,Math,PDF,Basic,98,84.34,87,Yes
+Rachel,9,Female,USA,California,Los Angeles,Clerk,High,Beginner,Intermediate,Science,Quiz,Hard,10,89.82,124,Yes
+William,17,Male,India,Maharashtra,Pune,Engineer,High,Beginner,Beginner,English,PDF,Basic,63,68.71,110,Yes
+Dawn,18,Male,UK,Scotland,Edinburgh,Clerk,High,Advanced,Beginner,Math,PDF,Medium,29,49.39,128,No
+Matthew,9,Female,USA,Texas,Austin,Teacher,Low,Advanced,Advanced,Science,Video,Hard,52,62.67,123,Yes
+Christina,14,Male,India,Maharashtra,Pune,Teacher,Middle,Beginner,Beginner,Math,Video,Medium,81,76.5,92,Yes
+Rebecca,17,Male,India,Maharashtra,Pune,Farmer,Middle,Beginner,Beginner,English,Quiz,Hard,64,88.23,129,Yes
+Angelica,10,Female,UK,England,Manchester,Teacher,Low,Beginner,Intermediate,English,Quiz,Hard,70,78.9,96,Yes
+Samantha,14,Female,USA,California,Los Angeles,Farmer,Low,Beginner,Beginner,Math,Video,Basic,115,76.47,140,Yes
+Lindsey,5,Female,India,Karnataka,Mysore,Business,Middle,Intermediate,Beginner,English,Quiz,Medium,41,44.37,102,No
+Brooke,13,Female,UK,England,Manchester,Teacher,Low,Beginner,Beginner,Math,PDF,Hard,39,42.74,85,No
+Rebecca,13,Male,UK,England,London,Clerk,High,Beginner,Beginner,Science,Quiz,Hard,115,64.9,90,Yes
+Taylor,7,Male,USA,Texas,Austin,Teacher,High,Beginner,Advanced,Math,Video,Hard,110,64.41,115,Yes
+Sherri,5,Male,India,Karnataka,Mysore,Doctor,Low,Advanced,Beginner,Math,PDF,Basic,104,80.51,109,Yes
+Arthur,5,Female,India,Maharashtra,Pune,Engineer,High,Intermediate,Intermediate,English,PDF,Basic,120,63.28,125,Yes
+Candice,10,Male,UK,England,London,Business,Middle,Beginner,Intermediate,Math,PDF,Basic,17,75.38,121,Yes
+Hannah,15,Male,UK,Scotland,Edinburgh,Clerk,Middle,Intermediate,Advanced,Math,PDF,Medium,40,75.24,129,Yes
+Tiffany,16,Female,UK,Scotland,Edinburgh,Clerk,High,Advanced,Advanced,English,PDF,Hard,22,78.3,87,Yes
+Teresa,9,Female,USA,California,Los Angeles,Farmer,High,Advanced,Beginner,English,Quiz,Hard,108,74.48,99,Yes
+Matthew,9,Male,USA,Texas,Dallas,Doctor,High,Beginner,Advanced,Science,Quiz,Hard,107,53.27,130,No
+Leslie,11,Female,UK,England,London,Clerk,Middle,Beginner,Beginner,English,PDF,Hard,101,63.48,128,Yes
+Randy,14,Male,India,Karnataka,Mysore,Farmer,High,Advanced,Advanced,Math,PDF,Medium,52,52.75,94,No
+Sarah,17,Female,UK,Scotland,Glasgow,Engineer,Middle,Intermediate,Beginner,Science,PDF,Hard,94,85.65,104,Yes
+Stephanie,5,Female,UK,England,Manchester,Teacher,Middle,Intermediate,Intermediate,Science,PDF,Hard,77,54.94,117,No
+Daniel,15,Female,UK,England,Manchester,Doctor,Middle,Beginner,Beginner,Science,Video,Basic,41,76.53,137,Yes
+Ryan,6,Female,India,Karnataka,Mysore,Teacher,Low,Intermediate,Advanced,Science,Quiz,Basic,99,41.96,134,No
+Steven,10,Male,India,Karnataka,Bangalore,Engineer,Middle,Intermediate,Advanced,Math,Video,Hard,54,84.64,110,Yes
+Valerie,9,Male,India,Karnataka,Mysore,Clerk,Low,Intermediate,Advanced,Math,Video,Hard,48,76.42,129,Yes
+Mark,11,Female,USA,California,Los Angeles,Farmer,Middle,Advanced,Intermediate,Math,Quiz,Basic,32,62.29,139,Yes
+Reginald,17,Male,UK,Scotland,Edinburgh,Engineer,Low,Intermediate,Beginner,English,PDF,Medium,103,100.0,80,Yes
+Matthew,15,Male,USA,Texas,Dallas,Farmer,Low,Beginner,Beginner,English,Quiz,Basic,54,77.93,112,Yes
+George,18,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Beginner,Science,PDF,Hard,37,69.45,87,Yes
+Amber,10,Female,USA,Texas,Dallas,Business,High,Intermediate,Beginner,English,PDF,Basic,31,87.64,80,Yes
+Kelly,16,Male,USA,Texas,Austin,Doctor,High,Beginner,Advanced,Science,Quiz,Hard,90,78.89,108,Yes
+Gary,11,Male,USA,Texas,Dallas,Clerk,Middle,Beginner,Beginner,English,Video,Hard,71,69.56,103,Yes
+Brianna,12,Female,USA,Texas,Dallas,Farmer,High,Beginner,Advanced,English,Video,Hard,101,52.85,99,No
+James,15,Female,India,Karnataka,Mysore,Farmer,Middle,Beginner,Advanced,Math,PDF,Basic,80,70.99,131,Yes
+Megan,13,Male,USA,California,San Diego,Clerk,Low,Advanced,Advanced,Math,Video,Medium,111,82.35,131,Yes
+Caleb,6,Female,UK,Scotland,Glasgow,Business,High,Intermediate,Beginner,Math,PDF,Basic,97,67.04,112,Yes
+Maria,12,Female,USA,Texas,Austin,Farmer,Middle,Advanced,Intermediate,English,Quiz,Basic,96,89.0,89,Yes
+Pamela,11,Male,UK,Scotland,Edinburgh,Engineer,Middle,Intermediate,Intermediate,Math,Video,Hard,45,87.65,139,Yes
+Valerie,8,Female,India,Maharashtra,Mumbai,Teacher,Low,Intermediate,Advanced,English,PDF,Medium,50,97.64,100,Yes
+Angela,17,Female,USA,Texas,Dallas,Clerk,Middle,Beginner,Advanced,English,PDF,Hard,119,70.02,134,Yes
+John,10,Male,USA,Texas,Austin,Engineer,High,Intermediate,Advanced,English,Video,Basic,42,52.61,106,No
+Samantha,16,Female,India,Karnataka,Mysore,Clerk,Middle,Advanced,Advanced,Math,PDF,Basic,62,78.0,90,Yes
+Jonathan,14,Male,India,Karnataka,Mysore,Teacher,Middle,Beginner,Intermediate,Science,PDF,Medium,45,73.82,95,Yes
+Karen,7,Female,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Beginner,Science,Quiz,Medium,34,82.03,133,Yes
+Kevin,15,Female,USA,California,San Diego,Farmer,Low,Advanced,Beginner,Science,PDF,Basic,72,85.96,110,Yes
+Wanda,14,Male,India,Maharashtra,Pune,Farmer,Middle,Advanced,Beginner,Math,Quiz,Medium,21,70.73,117,Yes
+Monica,5,Male,India,Karnataka,Mysore,Engineer,Middle,Intermediate,Beginner,English,Quiz,Basic,110,81.65,128,Yes
+William,8,Male,USA,Texas,Dallas,Clerk,Middle,Beginner,Intermediate,Math,Quiz,Basic,19,90.02,125,Yes
+Kylie,6,Female,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Advanced,Math,Video,Hard,82,78.39,105,Yes
+David,16,Female,USA,California,San Diego,Business,High,Advanced,Advanced,English,Quiz,Hard,98,63.25,83,Yes
+Ronald,9,Female,India,Maharashtra,Mumbai,Farmer,Low,Intermediate,Advanced,Science,Quiz,Medium,37,66.78,91,Yes
+Courtney,17,Female,UK,England,London,Doctor,Low,Beginner,Beginner,English,PDF,Hard,75,62.05,136,Yes
+Kevin,5,Male,USA,Texas,Austin,Business,Low,Beginner,Beginner,English,Video,Medium,41,98.39,100,Yes
+Alexander,6,Female,USA,Texas,Dallas,Engineer,Low,Intermediate,Advanced,Math,Quiz,Medium,82,85.13,123,Yes
+Rodney,10,Male,UK,England,Manchester,Farmer,Middle,Advanced,Beginner,Science,Video,Hard,95,100.0,87,Yes
+Jamie,11,Female,USA,California,San Diego,Teacher,Middle,Advanced,Beginner,English,Quiz,Hard,72,60.14,95,Yes
+Nichole,12,Male,USA,California,Los Angeles,Business,Middle,Intermediate,Intermediate,Math,Quiz,Medium,75,80.25,138,Yes
+Katherine,9,Male,UK,Scotland,Edinburgh,Business,Middle,Beginner,Advanced,Science,Video,Basic,91,90.4,139,Yes
+Jason,18,Male,UK,England,London,Doctor,Middle,Beginner,Beginner,English,PDF,Medium,45,59.12,88,No
+Nicholas,8,Male,India,Karnataka,Mysore,Farmer,Middle,Beginner,Beginner,English,Quiz,Medium,53,88.12,81,Yes
+Ronald,9,Male,USA,California,San Diego,Engineer,Low,Intermediate,Intermediate,Math,Video,Hard,26,68.68,120,Yes
+Lorraine,6,Female,USA,Texas,Austin,Farmer,Low,Advanced,Advanced,Science,PDF,Hard,99,74.25,139,Yes
+Juan,7,Female,UK,Scotland,Glasgow,Farmer,High,Advanced,Intermediate,English,Quiz,Hard,72,75.36,104,Yes
+Michael,12,Female,USA,California,Los Angeles,Farmer,Middle,Beginner,Advanced,English,PDF,Basic,10,46.6,106,No
+Jeffrey,18,Male,India,Karnataka,Bangalore,Clerk,Middle,Beginner,Beginner,Math,Quiz,Hard,88,47.94,115,No
+Jessica,5,Male,India,Karnataka,Bangalore,Clerk,Low,Beginner,Beginner,Math,PDF,Basic,36,75.58,133,Yes
+Ian,11,Female,USA,California,Los Angeles,Teacher,Middle,Beginner,Beginner,Math,Quiz,Hard,36,83.15,83,Yes
+Jamie,18,Female,India,Maharashtra,Mumbai,Doctor,Low,Advanced,Intermediate,English,PDF,Hard,79,78.83,128,Yes
+Steven,14,Male,India,Maharashtra,Pune,Engineer,Low,Advanced,Beginner,Science,PDF,Basic,20,64.75,88,Yes
+Sarah,15,Female,USA,Texas,Dallas,Farmer,Low,Advanced,Intermediate,Math,Video,Hard,37,75.62,105,Yes
+Jonathan,12,Female,India,Karnataka,Mysore,Teacher,High,Beginner,Intermediate,Math,Video,Medium,111,76.95,87,Yes
+Elizabeth,10,Female,UK,England,London,Teacher,Middle,Intermediate,Advanced,English,Quiz,Basic,34,66.26,121,Yes
+David,6,Male,USA,California,San Diego,Clerk,Middle,Beginner,Intermediate,Math,Video,Hard,59,49.92,117,No
+Meghan,7,Male,USA,Texas,Austin,Business,Low,Advanced,Intermediate,English,Video,Basic,99,91.32,94,Yes
+Craig,7,Female,UK,Scotland,Edinburgh,Clerk,High,Advanced,Advanced,Science,PDF,Basic,55,71.09,130,Yes
+Jose,10,Female,USA,Texas,Dallas,Farmer,Middle,Advanced,Advanced,English,Quiz,Basic,102,41.33,89,No
+Ryan,7,Male,USA,California,Los Angeles,Engineer,Middle,Beginner,Intermediate,Math,Quiz,Basic,105,77.43,132,Yes
+Ann,9,Male,USA,California,Los Angeles,Clerk,Middle,Advanced,Advanced,Math,Quiz,Hard,25,80.11,133,Yes
+Chad,7,Male,India,Karnataka,Mysore,Teacher,High,Advanced,Beginner,English,PDF,Medium,66,86.89,126,Yes
+Kathy,8,Male,India,Maharashtra,Mumbai,Engineer,Low,Advanced,Advanced,Math,Video,Medium,106,81.65,96,Yes
+Madeline,11,Male,India,Karnataka,Bangalore,Doctor,High,Intermediate,Beginner,Math,PDF,Basic,31,91.08,102,Yes
+Andrew,12,Female,UK,Scotland,Glasgow,Clerk,Middle,Intermediate,Intermediate,Math,Quiz,Hard,69,74.21,133,Yes
+Anthony,8,Female,India,Maharashtra,Mumbai,Farmer,High,Advanced,Advanced,English,PDF,Basic,48,73.44,133,Yes
+Adam,5,Female,India,Maharashtra,Pune,Business,Low,Beginner,Intermediate,Science,PDF,Hard,118,69.07,134,Yes
+Christopher,5,Male,USA,California,Los Angeles,Engineer,Middle,Intermediate,Advanced,Science,PDF,Basic,67,91.26,83,Yes
+Tiffany,6,Female,USA,Texas,Dallas,Farmer,Middle,Intermediate,Advanced,Science,Quiz,Medium,88,76.09,135,Yes
+Anthony,6,Female,India,Karnataka,Mysore,Teacher,High,Advanced,Advanced,Science,Quiz,Basic,57,75.68,87,Yes
+Kristin,15,Female,UK,Scotland,Edinburgh,Engineer,High,Intermediate,Beginner,Math,Quiz,Basic,29,90.14,87,Yes
+Kelsey,6,Male,UK,Scotland,Glasgow,Doctor,High,Intermediate,Beginner,Science,Quiz,Medium,82,87.47,103,Yes
+Marcus,10,Female,India,Maharashtra,Pune,Clerk,Low,Advanced,Advanced,English,Video,Hard,82,56.55,99,No
+Cody,5,Female,India,Karnataka,Mysore,Farmer,Middle,Advanced,Advanced,Math,PDF,Basic,52,91.33,82,Yes
+Lori,6,Female,UK,Scotland,Edinburgh,Farmer,Middle,Advanced,Intermediate,English,PDF,Medium,20,60.27,110,Yes
+Mark,13,Female,USA,Texas,Austin,Business,High,Beginner,Advanced,English,Video,Basic,55,85.63,124,Yes
+Nathan,6,Male,India,Karnataka,Mysore,Clerk,High,Intermediate,Advanced,English,Quiz,Medium,32,60.74,87,Yes
+Levi,9,Male,India,Karnataka,Mysore,Engineer,High,Advanced,Intermediate,English,Video,Medium,38,72.1,112,Yes
+Rebecca,12,Female,USA,California,Los Angeles,Farmer,High,Beginner,Intermediate,Math,Quiz,Hard,13,71.56,140,Yes
+Tanya,17,Male,USA,Texas,Dallas,Teacher,High,Beginner,Advanced,Math,PDF,Basic,113,60.1,113,Yes
+Paula,16,Female,India,Karnataka,Mysore,Clerk,Low,Intermediate,Beginner,Science,Quiz,Basic,48,73.36,81,Yes
+Timothy,15,Male,India,Maharashtra,Pune,Doctor,Middle,Advanced,Advanced,Math,Video,Basic,25,76.02,111,Yes
+Laura,13,Male,India,Maharashtra,Mumbai,Business,Middle,Intermediate,Beginner,Math,Video,Hard,86,51.78,136,No
+Jaime,5,Female,USA,Texas,Dallas,Teacher,High,Intermediate,Advanced,Science,Video,Hard,61,60.51,121,Yes
+Michael,5,Female,UK,England,London,Business,High,Advanced,Intermediate,Science,Quiz,Medium,63,87.84,132,Yes
+Lisa,11,Female,UK,England,London,Engineer,Low,Intermediate,Intermediate,Science,Video,Medium,40,70.26,83,Yes
+Paul,13,Female,UK,England,London,Clerk,Middle,Intermediate,Intermediate,English,Video,Medium,14,72.28,123,Yes
+Natasha,15,Male,UK,Scotland,Edinburgh,Clerk,Low,Advanced,Beginner,Math,Video,Basic,34,76.37,96,Yes
+Connie,12,Male,UK,Scotland,Edinburgh,Doctor,High,Beginner,Beginner,Science,Quiz,Hard,44,71.43,134,Yes
+Kenneth,14,Male,USA,California,San Diego,Engineer,Low,Intermediate,Beginner,Math,Video,Hard,67,88.19,80,Yes
+Melanie,16,Female,USA,California,Los Angeles,Business,Middle,Advanced,Advanced,English,PDF,Medium,81,72.15,135,Yes
+Diane,16,Male,UK,England,Manchester,Clerk,Middle,Intermediate,Beginner,English,Quiz,Hard,114,50.48,82,No
+Amanda,7,Female,USA,Texas,Dallas,Teacher,Low,Intermediate,Intermediate,Science,Video,Basic,106,59.69,123,No
+Renee,9,Male,India,Karnataka,Mysore,Business,Middle,Advanced,Beginner,Math,Quiz,Medium,10,69.09,115,Yes
+Martha,18,Male,USA,California,San Diego,Business,High,Intermediate,Beginner,English,Video,Hard,85,48.93,100,No
+Benjamin,18,Female,USA,California,San Diego,Doctor,High,Beginner,Intermediate,Science,Quiz,Hard,13,78.39,98,Yes
+Danielle,10,Female,UK,Scotland,Glasgow,Farmer,Low,Intermediate,Beginner,English,Video,Medium,114,87.73,105,Yes
+Amy,14,Female,India,Maharashtra,Mumbai,Engineer,Middle,Intermediate,Advanced,Math,Quiz,Basic,38,68.97,119,Yes
+Savannah,6,Female,USA,Texas,Austin,Engineer,Middle,Intermediate,Intermediate,Science,PDF,Basic,22,99.42,80,Yes
+Teresa,10,Female,USA,Texas,Austin,Engineer,High,Advanced,Intermediate,Science,PDF,Medium,14,74.59,122,Yes
+Jacob,16,Female,India,Maharashtra,Mumbai,Teacher,High,Advanced,Advanced,Science,Quiz,Medium,38,86.86,137,Yes
+Tammy,11,Male,USA,California,Los Angeles,Teacher,Middle,Intermediate,Intermediate,English,Video,Hard,73,57.76,85,No
+David,17,Male,USA,California,San Diego,Business,High,Advanced,Intermediate,Math,PDF,Basic,21,28.58,137,No
+Patricia,13,Female,USA,California,Los Angeles,Teacher,Low,Intermediate,Intermediate,English,Video,Basic,30,53.61,119,No
+Wendy,10,Female,USA,Texas,Austin,Clerk,High,Beginner,Intermediate,English,Video,Basic,65,90.81,90,Yes
+Matthew,8,Female,India,Maharashtra,Mumbai,Farmer,Low,Advanced,Intermediate,Math,PDF,Hard,78,57.05,108,No
+Billy,5,Female,USA,Texas,Austin,Farmer,Middle,Beginner,Beginner,English,Video,Basic,67,53.69,138,No
+Matthew,14,Male,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Beginner,Science,Video,Basic,63,72.67,81,Yes
+Timothy,16,Male,UK,England,London,Doctor,High,Beginner,Beginner,English,Video,Basic,85,48.84,101,No
+Carmen,11,Male,USA,California,Los Angeles,Doctor,Middle,Beginner,Advanced,English,Video,Basic,29,86.84,88,Yes
+Derek,12,Female,USA,California,San Diego,Engineer,High,Advanced,Beginner,Math,Video,Medium,100,46.42,123,No
+Jeremy,10,Female,USA,California,San Diego,Doctor,Middle,Advanced,Beginner,Math,Quiz,Medium,60,84.98,85,Yes
+Jennifer,17,Female,UK,England,Manchester,Clerk,Middle,Beginner,Advanced,English,Quiz,Basic,29,76.98,110,Yes
+Andrew,17,Female,UK,Scotland,Glasgow,Teacher,High,Beginner,Beginner,English,Quiz,Basic,116,54.03,96,No
+David,6,Female,UK,England,London,Engineer,Low,Intermediate,Beginner,Math,PDF,Basic,87,67.74,123,Yes
+Jasmine,18,Male,India,Maharashtra,Mumbai,Doctor,Low,Intermediate,Intermediate,Math,PDF,Hard,52,53.9,82,No
+Jessica,9,Male,USA,Texas,Austin,Clerk,High,Intermediate,Intermediate,Science,PDF,Medium,53,71.01,108,Yes
+James,7,Male,India,Maharashtra,Pune,Doctor,High,Beginner,Intermediate,Math,Video,Basic,105,46.17,136,No
+Robin,18,Male,UK,England,London,Teacher,High,Beginner,Advanced,Science,Video,Basic,25,100.0,120,Yes
+Teresa,8,Female,UK,England,London,Business,Low,Intermediate,Intermediate,Math,Video,Basic,45,57.06,112,No
+Kevin,11,Male,UK,England,London,Farmer,High,Advanced,Advanced,Science,Video,Medium,73,81.59,126,Yes
+Angela,15,Male,USA,California,Los Angeles,Farmer,Middle,Advanced,Intermediate,Science,Quiz,Basic,11,61.24,136,Yes
+Janet,13,Male,USA,California,San Diego,Business,High,Intermediate,Beginner,Science,Quiz,Basic,21,57.71,94,No
+Julie,18,Female,UK,England,Manchester,Engineer,High,Beginner,Beginner,English,Video,Basic,84,74.56,115,Yes
+Martin,8,Female,UK,Scotland,Edinburgh,Business,Middle,Beginner,Intermediate,English,PDF,Basic,26,66.32,109,Yes
+Victoria,18,Male,India,Maharashtra,Pune,Clerk,High,Intermediate,Intermediate,Math,Quiz,Medium,85,74.61,85,Yes
+Adam,16,Male,USA,California,Los Angeles,Business,Low,Beginner,Intermediate,Math,Quiz,Hard,20,67.76,112,Yes
+Ronald,9,Female,India,Karnataka,Bangalore,Teacher,Middle,Beginner,Advanced,English,Video,Hard,102,52.7,95,No
+Mitchell,17,Male,USA,California,San Diego,Engineer,High,Beginner,Advanced,English,Quiz,Hard,107,76.12,82,Yes
+Nicholas,6,Male,UK,England,Manchester,Teacher,Middle,Advanced,Intermediate,Math,Quiz,Medium,71,73.64,103,Yes
+Emily,15,Female,UK,Scotland,Edinburgh,Engineer,High,Beginner,Advanced,English,PDF,Basic,52,82.11,80,Yes
+Matthew,8,Female,USA,California,San Diego,Business,Low,Advanced,Intermediate,Math,Quiz,Hard,93,84.71,123,Yes
+Willie,13,Female,UK,Scotland,Glasgow,Farmer,High,Beginner,Intermediate,Science,PDF,Hard,50,100.0,100,Yes
+Ashley,7,Female,UK,Scotland,Glasgow,Farmer,Low,Intermediate,Intermediate,Math,Video,Hard,28,85.62,98,Yes
+Jennifer,8,Female,UK,Scotland,Edinburgh,Business,High,Intermediate,Intermediate,Science,Video,Basic,13,80.08,109,Yes
+Jacqueline,13,Male,India,Karnataka,Mysore,Engineer,Low,Beginner,Beginner,Math,Quiz,Hard,78,92.15,85,Yes
+Mary,18,Female,UK,England,London,Engineer,Low,Advanced,Beginner,Science,Video,Hard,110,54.9,93,No
+Nathan,14,Male,USA,Texas,Austin,Business,Low,Advanced,Advanced,English,Quiz,Medium,34,78.86,122,Yes
+Kristina,18,Female,USA,California,San Diego,Clerk,Middle,Beginner,Beginner,Science,Quiz,Medium,23,61.51,105,Yes
+Lisa,13,Female,USA,California,Los Angeles,Doctor,High,Beginner,Intermediate,English,PDF,Basic,83,75.14,134,Yes
+Paul,6,Female,USA,Texas,Austin,Business,Low,Advanced,Beginner,Science,Quiz,Hard,45,83.47,125,Yes
+Joel,6,Male,USA,Texas,Dallas,Farmer,High,Beginner,Beginner,Math,Video,Basic,22,97.71,84,Yes
+Bobby,7,Female,India,Karnataka,Mysore,Doctor,High,Beginner,Intermediate,Science,Video,Hard,85,67.99,93,Yes
+Heather,16,Male,India,Karnataka,Mysore,Doctor,Low,Beginner,Intermediate,Math,Quiz,Hard,19,61.83,125,Yes
+Rachel,6,Female,USA,Texas,Dallas,Doctor,High,Advanced,Beginner,English,Quiz,Hard,77,74.74,140,Yes
+James,13,Female,USA,Texas,Dallas,Doctor,High,Beginner,Advanced,English,PDF,Basic,99,100.0,134,Yes
+David,6,Male,India,Maharashtra,Pune,Engineer,Middle,Beginner,Beginner,English,Quiz,Hard,90,60.08,92,Yes
+Nathan,9,Male,USA,Texas,Dallas,Clerk,Middle,Intermediate,Beginner,English,Quiz,Basic,36,100.0,88,Yes
+Linda,18,Female,UK,England,Manchester,Business,Low,Intermediate,Advanced,Math,Video,Basic,22,59.19,103,No
+Alicia,10,Female,USA,California,Los Angeles,Clerk,High,Intermediate,Advanced,Math,Quiz,Medium,29,39.24,139,No
+Sandra,14,Male,India,Maharashtra,Mumbai,Clerk,Middle,Advanced,Beginner,Math,Quiz,Medium,95,53.29,94,No
+Alexis,12,Female,UK,Scotland,Glasgow,Business,Middle,Beginner,Intermediate,Science,PDF,Basic,89,60.94,129,Yes
+Jeanne,13,Male,USA,Texas,Austin,Clerk,High,Intermediate,Advanced,Math,Quiz,Basic,66,52.91,105,No
+Peggy,5,Male,USA,California,Los Angeles,Clerk,Low,Advanced,Intermediate,Math,PDF,Hard,114,92.1,89,Yes
+Robert,11,Male,India,Karnataka,Bangalore,Business,High,Beginner,Advanced,English,Quiz,Medium,114,89.61,131,Yes
+Virginia,12,Male,UK,England,London,Farmer,Low,Advanced,Intermediate,English,Quiz,Hard,116,49.43,134,No
+Brian,11,Female,India,Karnataka,Mysore,Teacher,Low,Advanced,Intermediate,Math,PDF,Hard,20,89.85,137,Yes
+Kevin,18,Female,India,Maharashtra,Mumbai,Farmer,Middle,Beginner,Beginner,Math,Quiz,Medium,105,97.44,95,Yes
+Ashley,7,Female,India,Maharashtra,Pune,Teacher,Middle,Beginner,Intermediate,Science,Quiz,Medium,99,57.08,110,No
+Crystal,12,Male,India,Karnataka,Mysore,Teacher,Middle,Advanced,Intermediate,English,Quiz,Basic,62,80.9,90,Yes
+Nicholas,18,Male,USA,California,San Diego,Business,Low,Beginner,Intermediate,Science,Quiz,Medium,37,50.36,103,No
+Kristy,5,Female,UK,England,London,Teacher,Low,Intermediate,Advanced,Science,PDF,Medium,17,58.05,97,No
+John,13,Male,USA,California,San Diego,Teacher,Low,Beginner,Beginner,Math,Video,Basic,45,81.93,106,Yes
+Nicholas,12,Male,USA,Texas,Austin,Teacher,Middle,Intermediate,Beginner,English,Quiz,Hard,87,66.97,124,Yes
+James,14,Male,India,Maharashtra,Pune,Farmer,Low,Advanced,Advanced,Science,Video,Medium,51,88.99,127,Yes
+Charles,18,Male,India,Karnataka,Bangalore,Business,Middle,Advanced,Beginner,English,Quiz,Medium,90,68.86,139,Yes
+Samantha,17,Male,India,Maharashtra,Mumbai,Engineer,Low,Advanced,Beginner,Science,Quiz,Basic,19,66.93,104,Yes
+Corey,9,Male,USA,California,Los Angeles,Farmer,Middle,Beginner,Advanced,Math,Quiz,Medium,41,74.07,100,Yes
+Linda,17,Female,India,Maharashtra,Mumbai,Farmer,Low,Advanced,Intermediate,English,PDF,Hard,33,75.81,135,Yes
+Susan,14,Female,India,Maharashtra,Mumbai,Teacher,Low,Advanced,Beginner,Science,PDF,Basic,30,70.51,116,Yes
+Jose,6,Female,USA,Texas,Austin,Clerk,High,Advanced,Intermediate,Science,Video,Hard,39,75.0,105,Yes
+Amy,5,Male,UK,England,London,Engineer,High,Intermediate,Beginner,Math,Quiz,Hard,31,55.89,118,No
+Heather,13,Female,India,Karnataka,Mysore,Clerk,High,Beginner,Intermediate,Math,PDF,Medium,104,66.45,93,Yes
+Melissa,5,Male,India,Karnataka,Mysore,Business,High,Intermediate,Intermediate,Math,Quiz,Basic,15,46.24,120,No
+Sheri,12,Male,India,Maharashtra,Pune,Business,High,Advanced,Advanced,Math,Video,Hard,21,60.07,128,Yes
+Matthew,13,Male,India,Maharashtra,Pune,Doctor,Low,Beginner,Intermediate,English,PDF,Hard,108,61.76,99,Yes
+Christopher,16,Female,India,Karnataka,Mysore,Engineer,Middle,Advanced,Intermediate,Math,Quiz,Hard,60,66.12,135,Yes
+Jerry,6,Female,India,Karnataka,Mysore,Doctor,Middle,Beginner,Beginner,Math,Video,Hard,18,84.02,85,Yes
+Jessica,14,Female,India,Karnataka,Mysore,Farmer,Middle,Intermediate,Advanced,Math,Quiz,Medium,75,87.38,93,Yes
+Joel,7,Female,UK,Scotland,Glasgow,Engineer,Low,Beginner,Intermediate,Science,Video,Medium,76,75.77,133,Yes
+Elizabeth,6,Female,UK,Scotland,Glasgow,Teacher,Middle,Advanced,Beginner,English,PDF,Hard,92,74.02,100,Yes
+Daniel,5,Male,UK,England,Manchester,Clerk,Low,Beginner,Beginner,English,Quiz,Medium,111,67.76,123,Yes
+Jonathon,10,Female,USA,California,San Diego,Farmer,High,Beginner,Beginner,English,PDF,Medium,64,68.18,104,Yes
+Linda,8,Male,UK,England,London,Clerk,Middle,Beginner,Advanced,Math,Quiz,Medium,106,45.61,140,No
+Mary,11,Male,India,Karnataka,Bangalore,Doctor,Low,Intermediate,Beginner,English,Quiz,Medium,87,61.73,112,Yes
+Jamie,5,Male,USA,California,San Diego,Farmer,High,Intermediate,Advanced,English,Quiz,Medium,112,93.69,107,Yes
+Rebecca,10,Male,UK,Scotland,Glasgow,Teacher,High,Advanced,Advanced,Math,PDF,Hard,108,68.99,137,Yes
+Tiffany,13,Male,UK,England,London,Business,Low,Intermediate,Intermediate,Math,PDF,Basic,12,72.91,96,Yes
+David,8,Female,UK,England,Manchester,Doctor,Middle,Advanced,Beginner,Math,Video,Medium,82,88.14,87,Yes
+Katherine,5,Male,USA,Texas,Austin,Farmer,Middle,Intermediate,Advanced,Science,Video,Hard,13,74.22,90,Yes
+Melissa,8,Male,USA,Texas,Austin,Clerk,Middle,Intermediate,Beginner,Math,PDF,Medium,93,85.15,136,Yes
+Gary,7,Male,UK,Scotland,Glasgow,Engineer,Low,Intermediate,Beginner,Science,Quiz,Basic,49,90.08,90,Yes
+Carl,17,Female,UK,Scotland,Glasgow,Business,Low,Beginner,Advanced,Science,PDF,Basic,10,70.59,100,Yes
+Debra,6,Male,USA,Texas,Austin,Doctor,High,Beginner,Advanced,English,Quiz,Hard,119,93.16,99,Yes
+Bryan,18,Male,UK,England,Manchester,Teacher,High,Intermediate,Advanced,English,Video,Basic,44,98.93,104,Yes
+Kimberly,8,Male,India,Karnataka,Bangalore,Teacher,Low,Intermediate,Advanced,English,PDF,Hard,76,59.1,85,No
+Morgan,17,Female,USA,California,San Diego,Engineer,High,Beginner,Advanced,English,PDF,Medium,13,70.45,126,Yes
+Theresa,6,Female,USA,California,San Diego,Teacher,Middle,Advanced,Advanced,Math,Quiz,Hard,31,88.14,98,Yes
+Tamara,9,Female,India,Karnataka,Mysore,Engineer,High,Beginner,Advanced,Science,Quiz,Basic,112,61.15,88,Yes
+Aimee,11,Female,UK,England,Manchester,Teacher,High,Intermediate,Advanced,Science,Video,Medium,78,62.44,84,Yes
+Natalie,7,Female,India,Karnataka,Bangalore,Teacher,Middle,Intermediate,Beginner,English,Video,Medium,42,50.49,81,No
+Deborah,14,Female,UK,England,London,Engineer,Low,Beginner,Advanced,English,Video,Medium,71,88.43,92,Yes
+Beth,13,Male,UK,Scotland,Edinburgh,Farmer,High,Beginner,Intermediate,Math,PDF,Hard,110,45.95,99,No
+Suzanne,7,Male,USA,Texas,Austin,Doctor,High,Beginner,Beginner,Science,PDF,Medium,70,59.35,106,No
+Christina,5,Female,USA,Texas,Austin,Clerk,High,Advanced,Intermediate,Science,Quiz,Basic,51,81.65,114,Yes
+Laura,10,Female,India,Karnataka,Bangalore,Farmer,High,Advanced,Intermediate,English,PDF,Medium,88,70.78,125,Yes
+Brian,5,Female,USA,Texas,Dallas,Clerk,Low,Beginner,Advanced,Science,PDF,Medium,37,49.51,88,No
+Seth,12,Female,UK,England,Manchester,Farmer,Low,Advanced,Advanced,English,PDF,Basic,56,61.43,106,Yes
+Lauren,18,Male,India,Karnataka,Mysore,Farmer,High,Advanced,Intermediate,English,Quiz,Basic,21,53.9,105,No
+Frank,12,Female,USA,California,Los Angeles,Teacher,Low,Intermediate,Intermediate,English,Quiz,Hard,77,80.1,109,Yes
+Krista,5,Male,USA,California,Los Angeles,Teacher,Middle,Beginner,Intermediate,English,PDF,Medium,59,78.61,93,Yes
+Theodore,15,Male,USA,Texas,Austin,Farmer,Low,Intermediate,Advanced,Science,Video,Basic,112,80.91,84,Yes
+Michael,16,Female,UK,Scotland,Glasgow,Business,High,Advanced,Intermediate,Science,PDF,Hard,30,48.45,129,No
+Richard,7,Male,India,Karnataka,Mysore,Teacher,Middle,Advanced,Advanced,Science,Quiz,Medium,43,80.11,98,Yes
+Melanie,11,Female,USA,Texas,Dallas,Teacher,Low,Beginner,Beginner,English,PDF,Medium,86,75.61,84,Yes
+Emily,7,Female,India,Karnataka,Mysore,Engineer,Low,Advanced,Beginner,Math,PDF,Hard,120,63.1,93,Yes
+Karen,13,Female,India,Maharashtra,Mumbai,Business,Middle,Beginner,Intermediate,Math,PDF,Basic,26,60.92,112,Yes
+John,18,Male,USA,Texas,Austin,Business,Middle,Advanced,Beginner,Science,Video,Basic,65,82.62,99,Yes
+Stacy,16,Male,India,Maharashtra,Mumbai,Clerk,High,Beginner,Advanced,Science,Video,Basic,84,90.73,117,Yes
+Laura,9,Male,USA,California,Los Angeles,Clerk,Low,Beginner,Beginner,English,Video,Hard,115,58.18,121,No
+William,5,Male,India,Karnataka,Bangalore,Clerk,Low,Advanced,Advanced,English,Video,Medium,28,60.28,105,Yes
+Justin,9,Female,USA,Texas,Austin,Clerk,Middle,Advanced,Advanced,Math,Quiz,Basic,21,76.58,105,Yes
+Megan,11,Male,UK,England,Manchester,Teacher,High,Beginner,Beginner,Math,Quiz,Hard,71,89.83,81,Yes
+Melissa,8,Male,India,Karnataka,Bangalore,Farmer,Middle,Beginner,Advanced,English,PDF,Basic,13,62.35,87,Yes
+Mark,8,Female,India,Maharashtra,Mumbai,Teacher,High,Advanced,Advanced,Math,Video,Medium,50,55.53,105,No
+Michelle,10,Female,USA,Texas,Dallas,Doctor,Middle,Intermediate,Intermediate,English,Quiz,Hard,103,52.0,81,No
+Julie,8,Male,UK,England,London,Doctor,High,Intermediate,Intermediate,Science,PDF,Basic,33,66.89,114,Yes
+Isaac,10,Female,India,Maharashtra,Pune,Teacher,High,Beginner,Advanced,English,Video,Hard,107,68.38,87,Yes
+Erica,14,Male,USA,Texas,Dallas,Business,Low,Beginner,Advanced,Math,Video,Hard,43,68.64,97,Yes
+Andrew,9,Female,India,Maharashtra,Mumbai,Farmer,Low,Advanced,Advanced,English,Quiz,Basic,94,61.24,120,Yes
+Kenneth,18,Female,India,Maharashtra,Pune,Engineer,Low,Beginner,Beginner,Science,Video,Hard,105,62.78,102,Yes
+Jill,9,Female,India,Karnataka,Mysore,Clerk,Middle,Intermediate,Advanced,Science,Quiz,Hard,47,83.38,98,Yes
+Kristin,14,Female,USA,Texas,Austin,Engineer,High,Beginner,Advanced,Science,Quiz,Basic,45,63.36,82,Yes
+Cody,6,Female,UK,England,London,Business,Middle,Advanced,Intermediate,Math,Quiz,Medium,53,68.63,140,Yes
+Brandy,10,Female,UK,England,Manchester,Engineer,Middle,Advanced,Beginner,Science,Video,Basic,102,66.94,128,Yes
+Lisa,14,Female,UK,Scotland,Glasgow,Clerk,High,Intermediate,Intermediate,Math,Quiz,Basic,13,85.56,99,Yes
+Courtney,9,Female,USA,California,Los Angeles,Clerk,Middle,Intermediate,Advanced,English,Quiz,Medium,73,93.47,94,Yes
+Samantha,13,Female,USA,Texas,Dallas,Business,Low,Beginner,Beginner,Math,PDF,Basic,119,77.04,91,Yes
+Nicole,16,Female,USA,California,San Diego,Engineer,Middle,Advanced,Intermediate,English,Quiz,Medium,27,83.66,109,Yes
+Dana,17,Female,UK,Scotland,Glasgow,Engineer,Low,Intermediate,Beginner,English,Quiz,Medium,79,65.82,94,Yes
+Gregory,7,Female,UK,England,London,Doctor,Middle,Beginner,Beginner,Science,Quiz,Hard,71,51.16,125,No
+William,8,Male,USA,California,Los Angeles,Doctor,High,Advanced,Intermediate,Math,Quiz,Medium,68,43.54,95,No
+Michelle,18,Male,UK,Scotland,Glasgow,Doctor,Low,Intermediate,Advanced,Math,Quiz,Basic,65,51.59,80,No
+Catherine,10,Female,UK,Scotland,Glasgow,Doctor,Middle,Intermediate,Beginner,Science,PDF,Hard,100,77.87,134,Yes
+Susan,15,Female,India,Maharashtra,Mumbai,Business,High,Advanced,Advanced,Math,Video,Basic,69,43.3,95,No
+Damon,12,Male,USA,California,Los Angeles,Doctor,High,Intermediate,Intermediate,Science,Video,Basic,74,63.3,119,Yes
+Eileen,10,Female,USA,Texas,Austin,Doctor,Middle,Advanced,Beginner,Science,Quiz,Hard,73,80.27,91,Yes
+Danielle,9,Male,USA,Texas,Dallas,Farmer,Middle,Advanced,Advanced,Science,Video,Hard,103,65.7,135,Yes
+Benjamin,8,Female,India,Maharashtra,Mumbai,Farmer,Middle,Intermediate,Advanced,Science,Video,Medium,59,76.88,92,Yes
+Robert,10,Male,India,Karnataka,Mysore,Doctor,Middle,Intermediate,Beginner,Math,Quiz,Medium,12,60.76,94,Yes
+Alexander,10,Male,USA,California,Los Angeles,Engineer,Low,Advanced,Intermediate,Science,Video,Hard,39,73.8,80,Yes
+Samantha,18,Female,USA,California,Los Angeles,Clerk,High,Intermediate,Beginner,Science,Video,Basic,104,77.96,105,Yes
+Melissa,11,Female,UK,England,Manchester,Farmer,Low,Advanced,Intermediate,English,Video,Hard,58,69.5,102,Yes
+Angelica,6,Female,USA,California,San Diego,Farmer,Low,Advanced,Intermediate,English,Video,Basic,34,72.82,92,Yes
+Amanda,8,Male,UK,Scotland,Glasgow,Business,Middle,Intermediate,Beginner,Science,PDF,Medium,53,66.98,86,Yes
+Cameron,11,Female,India,Karnataka,Bangalore,Farmer,Middle,Intermediate,Advanced,English,Quiz,Hard,48,71.44,140,Yes
+Christopher,10,Male,India,Karnataka,Bangalore,Engineer,Middle,Intermediate,Advanced,Science,PDF,Hard,34,71.78,97,Yes
+Tony,8,Female,UK,Scotland,Glasgow,Clerk,High,Advanced,Beginner,English,Quiz,Hard,107,55.08,119,No
+Teresa,17,Male,UK,England,Manchester,Farmer,Low,Advanced,Advanced,Math,Video,Hard,87,58.1,130,No
+Wesley,12,Male,UK,England,Manchester,Business,Middle,Advanced,Intermediate,Math,Quiz,Medium,102,100.0,82,Yes
+Gregory,12,Male,UK,Scotland,Glasgow,Farmer,High,Intermediate,Intermediate,Math,Quiz,Basic,81,46.23,85,No
+Mary,7,Female,USA,California,San Diego,Doctor,Middle,Beginner,Advanced,Math,Video,Basic,100,84.54,127,Yes
+Krista,9,Female,USA,Texas,Dallas,Teacher,High,Beginner,Beginner,Math,PDF,Medium,112,51.65,129,No
+Jessica,11,Female,USA,California,San Diego,Clerk,Low,Beginner,Advanced,Math,PDF,Basic,66,76.85,116,Yes
+Anthony,9,Female,USA,California,Los Angeles,Clerk,High,Intermediate,Intermediate,Math,PDF,Basic,38,60.04,114,Yes
+Robert,17,Male,UK,Scotland,Glasgow,Doctor,Low,Beginner,Beginner,English,Video,Medium,36,74.74,136,Yes
+Jose,8,Male,USA,California,San Diego,Teacher,Low,Intermediate,Advanced,Science,Quiz,Basic,66,90.63,94,Yes
+Thomas,11,Female,UK,England,Manchester,Business,Middle,Advanced,Advanced,Math,PDF,Basic,35,61.43,139,Yes
+Lauren,12,Female,India,Maharashtra,Mumbai,Teacher,Low,Advanced,Beginner,Science,Quiz,Hard,85,65.41,134,Yes
+Scott,8,Female,USA,California,San Diego,Teacher,Middle,Beginner,Advanced,Math,Quiz,Hard,39,65.0,99,Yes
+Danielle,7,Female,India,Karnataka,Mysore,Business,Middle,Intermediate,Advanced,English,Quiz,Basic,80,41.62,124,No
+Scott,18,Female,USA,Texas,Austin,Clerk,Middle,Beginner,Intermediate,Math,Quiz,Hard,77,84.27,129,Yes
+Stephen,5,Female,India,Karnataka,Bangalore,Doctor,High,Beginner,Advanced,Math,Video,Basic,44,75.4,130,Yes
+Eric,18,Female,UK,England,London,Business,High,Intermediate,Beginner,English,Quiz,Basic,55,65.25,128,Yes
+Ann,14,Male,UK,Scotland,Edinburgh,Doctor,Low,Beginner,Advanced,Science,Video,Hard,71,51.67,100,No
+Ann,14,Female,UK,Scotland,Edinburgh,Farmer,Middle,Advanced,Advanced,English,Quiz,Hard,71,82.16,130,Yes
+Marc,6,Male,UK,Scotland,Glasgow,Business,Middle,Advanced,Intermediate,Science,PDF,Basic,64,66.29,120,Yes
+Jennifer,10,Male,UK,Scotland,Glasgow,Engineer,High,Intermediate,Beginner,English,Quiz,Hard,23,43.83,123,No
+Anne,14,Female,USA,California,San Diego,Business,High,Intermediate,Intermediate,English,Video,Medium,107,60.46,131,Yes
+Matthew,10,Male,India,Maharashtra,Mumbai,Doctor,Middle,Beginner,Intermediate,English,Video,Medium,37,66.76,127,Yes
+Robert,6,Male,India,Maharashtra,Pune,Business,High,Advanced,Beginner,Science,Video,Medium,111,51.47,118,No
+Joseph,13,Female,USA,California,Los Angeles,Business,Low,Beginner,Beginner,Science,PDF,Medium,46,84.6,112,Yes
+Andrew,8,Male,India,Maharashtra,Pune,Farmer,Middle,Beginner,Intermediate,Science,Quiz,Medium,20,61.32,119,Yes
+Christina,6,Male,USA,California,San Diego,Clerk,Middle,Advanced,Advanced,Math,Quiz,Basic,92,53.33,85,No
+David,17,Male,UK,England,Manchester,Business,Low,Intermediate,Advanced,Math,Video,Medium,95,54.25,118,No
+Maria,16,Female,USA,Texas,Dallas,Farmer,High,Advanced,Advanced,English,Video,Basic,37,66.02,140,Yes
+Lisa,16,Male,India,Maharashtra,Mumbai,Doctor,Middle,Advanced,Beginner,Science,Quiz,Basic,105,77.4,108,Yes
+Christopher,15,Female,India,Maharashtra,Pune,Farmer,Low,Intermediate,Intermediate,Science,Video,Basic,111,62.83,128,Yes
+Rodney,5,Female,USA,Texas,Dallas,Teacher,Middle,Beginner,Intermediate,Math,PDF,Hard,38,67.62,132,Yes
+Michelle,5,Female,UK,England,London,Farmer,Middle,Beginner,Advanced,Math,Quiz,Basic,86,90.86,140,Yes
+Bryan,12,Male,UK,England,Manchester,Engineer,Low,Intermediate,Advanced,Math,Quiz,Medium,114,46.97,138,No
+Susan,5,Female,USA,California,Los Angeles,Doctor,Middle,Beginner,Beginner,English,Quiz,Hard,88,70.27,125,Yes
+Cynthia,12,Female,UK,England,London,Teacher,Middle,Beginner,Beginner,Math,Video,Medium,83,70.02,137,Yes
+Anna,10,Male,UK,Scotland,Glasgow,Business,High,Intermediate,Advanced,English,Quiz,Basic,92,57.45,136,No
+Sarah,12,Male,USA,Texas,Dallas,Teacher,Middle,Intermediate,Beginner,English,Quiz,Medium,56,74.88,136,Yes
+Daniel,5,Female,India,Karnataka,Mysore,Farmer,Middle,Advanced,Intermediate,English,PDF,Basic,83,87.74,108,Yes
+Sherry,6,Female,India,Maharashtra,Pune,Farmer,Low,Intermediate,Advanced,Math,PDF,Medium,107,81.58,128,Yes
+Lisa,7,Male,USA,California,San Diego,Engineer,Low,Intermediate,Intermediate,Science,Video,Hard,71,67.66,96,Yes
+Heidi,16,Male,India,Karnataka,Bangalore,Engineer,Low,Advanced,Beginner,Math,Quiz,Basic,101,78.42,106,Yes
+Emily,5,Male,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Advanced,Science,Quiz,Medium,15,71.57,87,Yes
+Karl,17,Male,UK,England,Manchester,Engineer,Middle,Intermediate,Advanced,Science,Quiz,Basic,82,66.8,118,Yes
+Evelyn,9,Female,USA,California,Los Angeles,Business,Middle,Intermediate,Beginner,Science,Video,Basic,98,78.05,96,Yes
+Tiffany,18,Female,UK,England,London,Teacher,Low,Intermediate,Intermediate,Science,PDF,Medium,41,80.58,81,Yes
+Charles,6,Female,India,Karnataka,Mysore,Clerk,High,Beginner,Intermediate,Science,Quiz,Hard,36,77.73,99,Yes
+Beth,9,Male,USA,Texas,Dallas,Engineer,High,Advanced,Advanced,Science,Quiz,Medium,12,64.22,109,Yes
+John,16,Female,UK,Scotland,Glasgow,Business,High,Beginner,Advanced,Science,Video,Basic,34,58.7,110,No
+Jennifer,6,Male,India,Maharashtra,Pune,Teacher,High,Advanced,Advanced,Math,Video,Hard,53,54.05,140,No
+Lauren,18,Male,USA,California,Los Angeles,Farmer,High,Intermediate,Intermediate,Math,Video,Basic,83,75.14,90,Yes
+Dustin,15,Male,USA,California,Los Angeles,Engineer,Middle,Intermediate,Beginner,English,PDF,Medium,110,58.14,129,No
+Jennifer,5,Female,India,Maharashtra,Pune,Business,Middle,Advanced,Advanced,English,Video,Hard,104,71.68,130,Yes
+Melissa,7,Male,UK,England,Manchester,Engineer,Middle,Intermediate,Beginner,Science,PDF,Medium,89,74.32,120,Yes
+Beth,11,Female,India,Maharashtra,Pune,Business,Middle,Advanced,Intermediate,Science,Video,Medium,42,69.15,125,Yes
+John,10,Female,USA,Texas,Austin,Engineer,Middle,Beginner,Intermediate,Math,Quiz,Medium,39,94.94,135,Yes
+Juan,10,Female,India,Karnataka,Mysore,Engineer,Middle,Beginner,Advanced,Science,PDF,Hard,29,94.62,104,Yes
+James,5,Male,India,Maharashtra,Mumbai,Farmer,Middle,Beginner,Beginner,English,Quiz,Medium,63,95.05,109,Yes
+Leah,18,Male,India,Karnataka,Bangalore,Doctor,High,Beginner,Advanced,English,PDF,Medium,45,42.4,129,No
+Lindsey,11,Male,India,Karnataka,Mysore,Teacher,Middle,Beginner,Intermediate,Math,Video,Hard,17,63.28,119,Yes
+Rachel,17,Female,India,Karnataka,Mysore,Clerk,Middle,Advanced,Intermediate,English,Quiz,Hard,62,81.13,80,Yes
+Aaron,6,Male,India,Maharashtra,Mumbai,Engineer,Middle,Beginner,Intermediate,English,PDF,Basic,103,69.14,93,Yes
+Mandy,18,Male,UK,Scotland,Glasgow,Business,Low,Beginner,Beginner,English,Quiz,Hard,18,86.58,110,Yes
+Joshua,10,Female,India,Maharashtra,Pune,Doctor,Middle,Advanced,Beginner,Science,Video,Hard,63,61.68,105,Yes
+Raymond,8,Male,India,Maharashtra,Mumbai,Business,Low,Advanced,Advanced,Math,Video,Medium,27,52.37,99,No
+Andrew,8,Female,USA,California,Los Angeles,Teacher,High,Advanced,Beginner,Science,Quiz,Hard,120,48.4,91,No
+Marisa,18,Female,India,Maharashtra,Mumbai,Clerk,Low,Intermediate,Beginner,Science,Video,Medium,77,49.51,99,No
+Gabriel,15,Female,USA,California,San Diego,Business,High,Intermediate,Intermediate,Math,PDF,Hard,90,89.77,109,Yes
+Kristen,13,Female,USA,California,Los Angeles,Teacher,High,Intermediate,Beginner,English,Quiz,Medium,42,79.95,112,Yes
+Heidi,16,Male,USA,California,San Diego,Clerk,Middle,Intermediate,Beginner,Science,PDF,Basic,113,52.39,109,No
+Lynn,15,Male,USA,Texas,Dallas,Farmer,High,Beginner,Intermediate,Science,Quiz,Hard,87,89.14,112,Yes
+Carrie,6,Female,India,Karnataka,Mysore,Farmer,High,Beginner,Advanced,Math,Quiz,Basic,46,70.5,117,Yes
+Steve,17,Female,USA,California,San Diego,Clerk,High,Advanced,Advanced,Math,Quiz,Basic,101,72.47,82,Yes
+Susan,12,Male,UK,Scotland,Edinburgh,Doctor,High,Intermediate,Intermediate,Math,Video,Hard,31,70.15,107,Yes
+Tammy,16,Male,UK,England,London,Doctor,Middle,Intermediate,Beginner,English,Quiz,Basic,72,65.03,107,Yes
+Christopher,12,Male,India,Maharashtra,Mumbai,Engineer,Low,Intermediate,Intermediate,Math,Quiz,Medium,39,99.8,109,Yes
+Susan,13,Female,UK,England,London,Engineer,Low,Advanced,Intermediate,English,PDF,Hard,113,79.59,118,Yes
+Jimmy,13,Male,USA,California,Los Angeles,Doctor,Middle,Intermediate,Advanced,English,Quiz,Hard,95,51.98,110,No
+Mitchell,14,Male,UK,Scotland,Edinburgh,Clerk,High,Advanced,Intermediate,Science,Quiz,Hard,109,67.43,123,Yes
+Joseph,10,Female,UK,Scotland,Edinburgh,Clerk,Low,Advanced,Advanced,Math,Video,Basic,109,79.42,94,Yes
+Mary,5,Female,India,Karnataka,Mysore,Business,High,Beginner,Advanced,English,Video,Hard,104,61.86,81,Yes
+Mary,5,Male,India,Maharashtra,Mumbai,Business,Middle,Beginner,Advanced,Math,PDF,Basic,83,87.02,80,Yes
+Leonard,17,Female,UK,Scotland,Glasgow,Engineer,Middle,Advanced,Intermediate,English,Quiz,Basic,32,85.57,110,Yes
+Sandra,8,Female,USA,Texas,Austin,Clerk,Low,Advanced,Beginner,English,PDF,Hard,110,83.99,120,Yes
+Mary,12,Female,USA,Texas,Dallas,Teacher,Middle,Advanced,Beginner,Science,PDF,Basic,77,41.4,87,No
+Joseph,5,Male,India,Maharashtra,Pune,Clerk,Low,Advanced,Intermediate,Math,Quiz,Basic,55,50.73,139,No
+Elizabeth,12,Male,UK,Scotland,Glasgow,Doctor,Middle,Intermediate,Advanced,English,PDF,Medium,84,37.6,140,No
+Rachel,16,Male,India,Maharashtra,Mumbai,Clerk,High,Beginner,Beginner,Math,Video,Hard,49,77.48,135,Yes
+Laura,6,Male,UK,Scotland,Edinburgh,Doctor,Middle,Intermediate,Intermediate,Science,Quiz,Medium,31,72.3,134,Yes
+Kristin,11,Female,UK,Scotland,Edinburgh,Teacher,High,Intermediate,Intermediate,Math,Video,Basic,76,71.59,83,Yes
+Ryan,16,Male,UK,England,London,Farmer,Middle,Advanced,Intermediate,Science,Video,Hard,32,65.48,127,Yes
+Marilyn,5,Male,UK,Scotland,Glasgow,Engineer,Middle,Beginner,Advanced,Math,Quiz,Hard,47,37.39,85,No
+Monica,18,Male,India,Karnataka,Bangalore,Teacher,Middle,Intermediate,Intermediate,Math,Quiz,Basic,20,65.23,83,Yes
+Todd,16,Male,UK,England,Manchester,Teacher,Low,Beginner,Beginner,English,Video,Basic,84,69.84,81,Yes
+Mark,13,Female,India,Karnataka,Bangalore,Clerk,Middle,Intermediate,Intermediate,English,PDF,Hard,68,61.49,91,Yes
+Andrea,18,Male,India,Maharashtra,Pune,Doctor,Low,Intermediate,Beginner,English,Quiz,Basic,88,55.55,109,No
+Christopher,5,Male,UK,Scotland,Glasgow,Clerk,High,Intermediate,Advanced,English,PDF,Basic,35,87.17,91,Yes
+Michelle,9,Male,USA,Texas,Austin,Business,Low,Beginner,Beginner,Math,Video,Basic,82,73.26,97,Yes
+Peggy,10,Male,India,Maharashtra,Mumbai,Farmer,Middle,Advanced,Advanced,English,Video,Medium,85,87.19,100,Yes
+Michael,9,Female,USA,California,Los Angeles,Engineer,High,Intermediate,Beginner,Math,Video,Medium,113,58.26,120,No
+Zachary,9,Male,USA,Texas,Austin,Engineer,Middle,Beginner,Advanced,Math,Quiz,Medium,113,99.11,105,Yes
+Joe,14,Female,UK,Scotland,Glasgow,Teacher,High,Intermediate,Advanced,English,PDF,Basic,11,60.56,98,Yes
+William,10,Male,UK,Scotland,Edinburgh,Doctor,Middle,Intermediate,Intermediate,English,PDF,Hard,99,96.83,117,Yes
+Joshua,9,Male,India,Karnataka,Mysore,Business,High,Advanced,Intermediate,Math,PDF,Hard,63,87.61,128,Yes
+Jonathon,12,Female,UK,England,Manchester,Teacher,Low,Advanced,Intermediate,Math,Video,Basic,109,69.02,95,Yes
+Rebecca,16,Male,India,Maharashtra,Pune,Business,Middle,Intermediate,Beginner,Math,Quiz,Basic,106,63.31,130,Yes
+Adrian,5,Female,India,Karnataka,Mysore,Engineer,Low,Intermediate,Advanced,English,PDF,Medium,72,50.42,106,No
+Allen,9,Female,UK,England,Manchester,Business,Middle,Intermediate,Beginner,Science,PDF,Hard,82,94.67,83,Yes
+Margaret,18,Female,UK,England,London,Doctor,Middle,Beginner,Intermediate,English,Video,Hard,73,63.97,94,Yes
+Sharon,7,Male,USA,California,San Diego,Farmer,High,Beginner,Intermediate,Science,PDF,Hard,21,84.07,87,Yes
+Nicholas,6,Female,USA,California,San Diego,Farmer,High,Intermediate,Advanced,Math,PDF,Hard,92,63.56,127,Yes
+Lisa,16,Female,UK,Scotland,Edinburgh,Engineer,Low,Advanced,Beginner,Science,PDF,Medium,22,92.85,125,Yes
+Julia,5,Male,India,Maharashtra,Pune,Teacher,High,Intermediate,Beginner,Math,Video,Medium,61,66.04,95,Yes
+Steven,9,Male,India,Maharashtra,Pune,Doctor,High,Intermediate,Beginner,Science,Video,Basic,57,65.65,134,Yes
+Miguel,18,Male,USA,California,Los Angeles,Clerk,Middle,Intermediate,Beginner,English,Video,Basic,50,100.0,84,Yes
+Emily,7,Male,UK,England,London,Doctor,Low,Advanced,Advanced,English,Quiz,Medium,65,78.86,100,Yes
+Bruce,17,Male,USA,California,San Diego,Farmer,High,Advanced,Advanced,Science,Quiz,Hard,85,74.22,83,Yes
+Frank,13,Male,India,Karnataka,Bangalore,Engineer,Low,Advanced,Advanced,Math,PDF,Basic,50,100.0,115,Yes
+Christian,18,Male,USA,California,San Diego,Business,Middle,Advanced,Advanced,Science,PDF,Basic,103,63.74,139,Yes
+Kathleen,12,Male,UK,England,Manchester,Clerk,High,Advanced,Intermediate,English,Quiz,Medium,42,65.22,107,Yes
+Lauren,13,Female,India,Karnataka,Mysore,Clerk,Middle,Intermediate,Advanced,Math,PDF,Basic,46,84.03,80,Yes
+Amy,6,Male,UK,England,Manchester,Engineer,Low,Advanced,Intermediate,Math,PDF,Medium,120,100.0,135,Yes
+Olivia,15,Male,USA,Texas,Dallas,Doctor,High,Beginner,Beginner,Math,Video,Medium,53,76.7,92,Yes
+David,6,Female,UK,England,London,Business,Middle,Intermediate,Intermediate,English,Quiz,Medium,20,61.93,114,Yes
+Michael,6,Male,India,Maharashtra,Pune,Teacher,Low,Intermediate,Intermediate,Math,Quiz,Hard,118,63.12,116,Yes
+Melinda,14,Female,UK,Scotland,Edinburgh,Farmer,High,Advanced,Beginner,Math,PDF,Medium,61,46.24,80,No
+Nicole,16,Male,UK,Scotland,Edinburgh,Farmer,Low,Intermediate,Intermediate,Science,Quiz,Basic,57,79.86,134,Yes
+Kim,9,Male,USA,California,San Diego,Farmer,Low,Beginner,Intermediate,English,Video,Basic,76,77.12,115,Yes
+Chad,15,Female,India,Maharashtra,Pune,Teacher,High,Intermediate,Beginner,English,PDF,Basic,68,79.13,98,Yes
+Lori,5,Male,UK,England,Manchester,Teacher,Low,Beginner,Intermediate,Science,Quiz,Hard,42,61.4,118,Yes
+Scott,7,Female,India,Maharashtra,Mumbai,Teacher,Low,Advanced,Intermediate,Science,PDF,Basic,55,86.83,80,Yes
+Marie,9,Male,USA,California,Los Angeles,Teacher,Middle,Beginner,Advanced,Science,Video,Hard,108,70.19,81,Yes
+Catherine,17,Male,USA,California,San Diego,Doctor,High,Beginner,Beginner,Science,PDF,Basic,32,45.43,86,No
+Terri,11,Male,USA,Texas,Austin,Business,High,Advanced,Beginner,Science,PDF,Hard,62,72.87,115,Yes
+Anthony,11,Male,UK,England,London,Doctor,Middle,Intermediate,Advanced,English,Quiz,Medium,29,51.84,131,No
+Madison,16,Female,India,Karnataka,Bangalore,Clerk,Low,Beginner,Intermediate,Math,Quiz,Medium,43,42.65,132,No
+Renee,11,Female,UK,Scotland,Glasgow,Teacher,Middle,Beginner,Intermediate,Math,Quiz,Medium,29,66.37,115,Yes
+Mary,15,Female,UK,England,Manchester,Teacher,High,Advanced,Intermediate,English,Video,Basic,90,68.5,102,Yes
+Dylan,6,Female,USA,California,Los Angeles,Engineer,High,Advanced,Intermediate,Math,PDF,Hard,93,51.86,136,No
+Chris,14,Male,UK,England,Manchester,Business,Middle,Intermediate,Intermediate,Science,Video,Basic,24,60.9,129,Yes
+Amy,18,Male,India,Maharashtra,Pune,Business,Low,Intermediate,Intermediate,Science,Video,Hard,20,55.5,90,No
+Karen,5,Male,India,Maharashtra,Pune,Clerk,High,Beginner,Intermediate,Math,Video,Medium,85,76.35,120,Yes
+Kathleen,7,Female,UK,Scotland,Edinburgh,Engineer,Middle,Advanced,Advanced,Science,Video,Basic,59,50.06,124,No
+James,6,Male,USA,California,San Diego,Business,High,Beginner,Intermediate,Math,Video,Hard,29,65.79,97,Yes
+Kathryn,8,Female,USA,California,San Diego,Clerk,Middle,Intermediate,Beginner,English,PDF,Medium,30,51.5,108,No
+Bonnie,13,Male,UK,Scotland,Glasgow,Engineer,Low,Intermediate,Advanced,Math,PDF,Hard,77,63.63,112,Yes
+Lauren,17,Male,USA,Texas,Austin,Business,Low,Advanced,Advanced,Math,Video,Basic,67,70.11,98,Yes
+Tiffany,12,Female,USA,Texas,Dallas,Farmer,High,Beginner,Beginner,English,Video,Hard,106,70.47,119,Yes
+Eric,8,Male,UK,England,London,Engineer,High,Intermediate,Beginner,Science,PDF,Basic,81,67.28,96,Yes
+Elizabeth,5,Female,USA,Texas,Austin,Teacher,Low,Advanced,Beginner,Math,PDF,Hard,19,73.61,139,Yes
+Amanda,10,Female,India,Maharashtra,Mumbai,Farmer,Low,Advanced,Advanced,English,Video,Medium,89,95.86,108,Yes
+Maurice,16,Male,UK,England,London,Engineer,High,Intermediate,Intermediate,Science,PDF,Medium,84,71.35,107,Yes
+Alyssa,8,Male,India,Karnataka,Bangalore,Farmer,Low,Intermediate,Intermediate,English,Quiz,Hard,88,80.61,132,Yes
+Cindy,8,Female,USA,California,Los Angeles,Doctor,Middle,Intermediate,Beginner,Science,PDF,Basic,92,81.07,99,Yes
+Kenneth,5,Male,USA,California,San Diego,Teacher,Middle,Intermediate,Advanced,Science,Video,Basic,86,73.8,85,Yes
+Darren,11,Female,USA,California,Los Angeles,Doctor,Middle,Advanced,Intermediate,Science,PDF,Basic,16,97.72,96,Yes
+Angelica,8,Female,UK,England,Manchester,Doctor,Middle,Beginner,Advanced,Science,Video,Basic,41,83.48,120,Yes
+Kathy,10,Female,India,Karnataka,Bangalore,Farmer,Low,Advanced,Advanced,English,PDF,Hard,21,82.0,134,Yes
+Natalie,11,Male,USA,California,Los Angeles,Engineer,Middle,Advanced,Intermediate,Math,PDF,Hard,92,56.82,100,No
+Ryan,12,Male,India,Karnataka,Bangalore,Engineer,Low,Advanced,Advanced,English,PDF,Medium,68,76.88,126,Yes
+Adam,17,Male,UK,England,London,Business,High,Intermediate,Advanced,Math,Video,Basic,67,44.08,129,No
+Jennifer,10,Male,India,Maharashtra,Pune,Farmer,High,Advanced,Beginner,English,Video,Basic,34,83.9,126,Yes
+Michele,8,Male,USA,California,Los Angeles,Doctor,Low,Beginner,Advanced,Science,PDF,Basic,37,71.34,103,Yes
+Brittany,16,Female,India,Maharashtra,Pune,Farmer,Middle,Advanced,Beginner,English,Quiz,Hard,67,91.69,113,Yes
+Francis,14,Female,India,Maharashtra,Pune,Clerk,Low,Intermediate,Advanced,English,Video,Hard,108,97.3,92,Yes
+Abigail,13,Male,USA,California,San Diego,Doctor,Low,Beginner,Advanced,Science,Video,Medium,67,53.06,103,No
+Denise,6,Female,India,Maharashtra,Mumbai,Business,High,Beginner,Beginner,English,Quiz,Hard,85,100.0,127,Yes
+Jody,7,Female,UK,Scotland,Edinburgh,Farmer,Middle,Intermediate,Advanced,Math,Video,Hard,83,78.69,123,Yes
+Michael,7,Male,India,Maharashtra,Pune,Farmer,Middle,Intermediate,Beginner,English,PDF,Medium,21,81.03,91,Yes
+Paul,12,Male,USA,Texas,Dallas,Teacher,Middle,Intermediate,Beginner,Math,Quiz,Hard,43,57.2,139,No
+William,11,Female,USA,Texas,Austin,Business,Low,Beginner,Advanced,English,PDF,Basic,93,76.93,101,Yes
+Michele,9,Male,USA,Texas,Austin,Clerk,Low,Beginner,Intermediate,Math,Quiz,Hard,21,79.07,92,Yes
+David,11,Female,UK,Scotland,Edinburgh,Teacher,Middle,Beginner,Advanced,English,Quiz,Basic,33,63.44,88,Yes
+Cynthia,9,Female,USA,California,Los Angeles,Farmer,Low,Intermediate,Intermediate,Science,Quiz,Medium,24,100.0,106,Yes
+Samantha,10,Male,India,Maharashtra,Mumbai,Business,High,Advanced,Intermediate,English,Video,Basic,11,82.88,117,Yes
+Tyler,9,Female,India,Maharashtra,Mumbai,Engineer,Low,Beginner,Intermediate,Math,Quiz,Medium,99,85.77,115,Yes
+Kevin,9,Male,India,Maharashtra,Mumbai,Farmer,Middle,Intermediate,Beginner,Science,Quiz,Medium,86,53.42,108,No
