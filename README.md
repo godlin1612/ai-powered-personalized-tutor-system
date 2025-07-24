@@ -26,3 +26,28 @@ The project includes both **backend (model training)** and **frontend (Streamlit
 ---
 
 ## 📂 Project Structure
+AI-Powered-Personal-Tutor-System/
+│
+├── AI_TUTOR_BACKEND/ # Model training and data generation
+│ ├── analysis/
+│ ├── MODEL1.py
+│ ├── MODEL2.py
+│ ├── generate_k12_data.py
+│ └── k12_students_data.csv
+│
+├── AI_TUTOR_FRONTEND/ # Streamlit app and ML models
+│ ├── Dashboard Output/
+│ ├── MODEL1.py
+│ ├── MODEL2.py
+│ ├── dashboard.py # Streamlit dashboard
+│ ├── feature_columns.pkl
+│ ├── feature_names.pkl
+│ ├── material_mapping.pkl
+│ ├── model_assessment.pkl
+│ ├── model_material.pkl
+│ ├── model_promotion.pkl
+│ ├── scaler.pkl
+│ ├── requirements.txt # Dependencies
+│ └── k12_students_data.csv
+│
+└── README.md
