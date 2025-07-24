@@ -26,7 +26,8 @@ The project includes both **backend (model training)** and **frontend (Streamlit
 ---
 
 ## 📂 Project Structure
-'''
+
+```
 
 AI-Powered-Personal-Tutor-System/
 │
@@ -54,4 +55,4 @@ AI-Powered-Personal-Tutor-System/
 │
 └── README.md
 
-'''
+```
